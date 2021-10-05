@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Neural Interfacing Lab"
+title:              "Neural Interfacing Lab at Maastricht University"
+description:        "this is a page for the Neural Interfacing Lab withing the Department for Neurosurgery at Maastricht University"
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://??.com
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html

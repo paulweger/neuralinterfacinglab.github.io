@@ -1,12 +1,10 @@
 ---
-name: Jordan Lei
+name: Daria Bogdan
 position: gradstudent
-avatar: jordan_lei.jpg
+avatar: daria bogdan.jpeg
 twitter: 
-joined: 2020
+joined: 2021
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
-
-
-[jordanlei.com](https://www.jordanlei.com)
+i.bogdan@maastrichtuniversity.nl

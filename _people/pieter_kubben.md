@@ -1,5 +1,5 @@
 ---
-name: Pieter kubben
+name: Pieter Kubben
 position: pi
 avatar: Pieter.jpg
 joined: 2016

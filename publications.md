@@ -202,7 +202,7 @@ Surgical neurology international, 2017</td></tr>
 <tr><td><a href="https://pdfs.semanticscholar.org/31c6/b3b68b280ee3c55be5df5332116010885782.pdf">Introducing “computational neurosurgery”</a>
 <i>Pieter L Kubben</i>
 Surgical neurology international, 2017</td></tr>
-</table
+</table>
 ### 2016
 <table>
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:4JMBOYKVnBMC">EP 13. Tailored anesthetic techniques in patients with severe Tourette Syndrome undergoing surgery for Deep Brain Stimulation</a>

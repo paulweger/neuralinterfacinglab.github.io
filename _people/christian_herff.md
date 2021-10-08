@@ -10,6 +10,7 @@ joined: 2018
 
 ### Contact
 c.herff@maastrichtuniversity.nl
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.de/citations?user=n465ljAAAAAJ) <br>
 
 ### Research Interests
 

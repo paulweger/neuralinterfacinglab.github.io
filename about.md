@@ -17,6 +17,7 @@ Our conceptual work addresses information processing in the nervous system from 
 
 
 #### adaptive Deep Brain Stimulation
+<img width="300" src="{{site.baseurl}}/images/other/fig_closed_loop_sq.png" data-action="zoom">
 We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
 
 The best way to get a sense of what's currently going on in the lab is to check out the work of individual lab members:

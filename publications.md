@@ -169,10 +169,10 @@ ESANN 2018 - 26th European Symposium on Artificial Neural Networks, Computationa
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6293600/">Comparing deep brain stimulation in the ventral intermediate nucleus versus the posterior subthalamic area in essential tremor patients</a>
 <i>Aurélie Degeneffe, Mark L Kuijf, Linda Ackermans, Yasin Temel, Pieter L Kubben</i>
 Surgical neurology international, 2018</td></tr>
-<tr><td><a href="https://link.springer.com/article/10.1007/s00701-017-3242-9">Methodology, outcome, safety and in vivo accuracy in traditional frame-based stereoelectroencephalography</a>
 </table>
  ### 2017
  <table>
+  <tr><td><a href="https://link.springer.com/article/10.1007/s00701-017-3242-9">Methodology, outcome, safety and in vivo accuracy in traditional frame-based stereoelectroencephalography</a>
   <i>Lars E van der Loo, Olaf EMG Schijns, Govert Hoogland, Albert J Colon, G Louis Wagner, Jim TA Dings, Pieter L Kubben</i>
 Acta neurochirurgica, 2017</td></tr>
 <tr><td><a href="https://core.ac.uk/download/pdf/189934577.pdf#page=73">Evaluating fNIRS-based workload discrimination in a realistic driving scenario</a>

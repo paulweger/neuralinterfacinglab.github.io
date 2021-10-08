@@ -9,7 +9,7 @@ description:        "this is a page for the Neural Interfacing Lab withing the D
 
 
 # URL
-url:                http://??.com
+url:                http://neuralinterfacinglab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html

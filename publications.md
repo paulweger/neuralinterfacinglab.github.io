@@ -11,1063 +11,572 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
-_For love of neuroscience: The Neuromatch movement_<br>
-Konrad Paul Kording<br>
-Neuron, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:xu-w60CxnpAC))
+_Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity_<br>
+Miguel Angrick, Maarten C Ottenhoff, Lorenz Diener, Darius Ivucic, Gabriel Ivucic, Sophocles Goulis, Jeremy Saal, Albert J Colon, Louis Wagner, Dean J Krusienski, Pieter L Kubben, Tanja Schultz, Christian Herff<br>
+Communications Biology, 2021 ([Article](https://www.nature.com/articles/s42003-021-02578-0.pdf?origin=ppub))
 
-_Evaluation of Changes in Depression, Anxiety, and Social Anxiety Using Smartphone Sensor Features: Longitudinal Cohort Study_<br>
-Jonah Meyerhoff, Tony Liu, Konrad P Kording, Lyle H Ungar, Susan M Kaiser, Chris J Karr, David C Mohr<br>
-Journal of Medical Internet Research, 2021 ([Article](https://www.jmir.org/2021/9/e22844/))
+_Variability in subthalamic nucleus targeting for deep brain stimulation with 3 and 7 Tesla magnetic resonance imaging_<br>
+Bethany R Isaacs, Margot Heijmans, Mark L Kuijf, Pieter L Kubben, Linda Ackermans, Yasin Temel, Max C Keuken, Birte U Forstmann<br>
+NeuroImage: Clinical, 2021 ([Article](https://www.sciencedirect.com/science/article/pii/S2213158221002734))
 
-_Machine Learning and Surgical Outcomes Prediction: A Systematic Review_<br>
-Omar Elfanagely, Yoshiko Toyoda, Sammy Othman, Joseph A Mellia, Marten Basta, Tony Liu, Konrad Kording, Lyle Ungar, John P Fischer<br>
-Journal of Surgical Research, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:TRpSR8MJMSgC))
+_Predicting mortality of individual COVID-19 patients: A multicenter Dutch cohort*_<br>
+Maarten C Ottenhoff, Lucas A Ramos, Wouter Potters, Marcus LF Janssen, Deborah Hubers, Shi Hu, Egill A Fridgeirsson, Dan Piña-Fuentes, Rajat Thomas, Iwan CC van der Horst, Christian Herff, Pieter Kubben, Paul WG Elbers, Henk A Marquering, Max Welling, Suat Simsek, Martijn D de Kruif, Tom Dormans, Lucas M Fleuren, Michiel Schinkel, Peter G Noordzij, Joop P van den Bergh, Caroline E Wyers, David TB Buis, W Joost Wiersinga, Ella HC van den Hout, Auke C Reidinga, Daisy Rusch, Kim CE Sigaloff, Renee A Douma, Lianne de 
+Haan, Niels C Gritters van den Oever, Roger JMW Rennenberg, Guido A van Wingen, Marcel JH Aries, Martijn Beudel<br>
+BMJ open, 2021 ([Article](https://bmjopen.bmj.com/content/11/7/e047347.abstract))
 
+_Predicting mortality of individual patients with COVID-19: a multicentre Dutch cohort_<br>
+Maarten C Ottenhoff, Lucas A Ramos, Wouter Potters, Marcus LF Janssen, Deborah Hubers, Shi Hu, Egill A Fridgeirsson, Dan Piña-Fuentes, Rajat Thomas, Iwan CC van der Horst, Christian Herff, Pieter Kubben, Paul WG Elbers, Henk A Marquering, Max Welling, Suat Simsek, Martijn D de Kruif, Tom Dormans, Lucas M Fleuren, Michiel Schinkel, Peter G Noordzij, Joop P van den Bergh, Caroline E Wyers, David TB Buis, W Joost Wiersinga, Ella HC van den Hout, Auke C Reidinga, Daisy Rusch, Kim CE Sigaloff, Renee A Douma, Lianne de 
+Haan, Niels C Gritters van den Oever, Roger JMW Rennenberg, Guido A van Wingen, Marcel JH Aries, Martijn Beudel<br>
+BMJ open, 2021 ([Article](https://bmjopen.bmj.com/content/11/7/e047347.abstract))
 
-_Combining transcranial magnetic stimulation with functional magnetic resonance imaging for probing and modulating neural circuits relevant to affective disorders_<br>
-Desmond J Oathes, Nicholas L Balderston, Konrad P Kording, Joseph A DeLuisi, Gianna M Perez, John D Medaglia, Yong Fan, Romain J Duprat, Theodore D Satterthwaite, Yvette I Sheline, Kristin A Linn<br>
-Wiley Interdisciplinary Reviews: Cognitive Science, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:bxNerZLeg9kC))
+_Digital health integration with neuromodulation therapies: the future of patient-centric innovation in neuromodulation_<br>
+Yagna J Pathak, Walter Greenleaf, Leo Verhagen Metman, Pieter Kubben, Sridevi Sarma, Brian Pepin, Douglas Lautner, Scott DeBates, Alex M Benison, Binesh Balasingh, Erika Ross<br>
+Frontiers in Digital Health, 2021 ([Article](https://www.frontiersin.org/articles/10.3389/fdgth.2021.618959/full?utm_source=S-TWT&utm_medium=SNET&utm_campaign=ECO_FDGTH_XXXXXXXX_auto-dlvrit))
 
-_Object Based Attention Through Internal Gating_<br>
-Jordan Lei, Ari S Benjamin, Konrad P Kording<br>
-arXiv preprint arXiv:2106.04540, 2021 ([Article](https://arxiv.org/pdf/2106.04540))
+_Can predicting COVID-19 mortality in a European cohort using only demographic and comorbidity data surpass age-based prediction: An externally validated study_<br>
+Avishek Chatterjee, Guangyao Wu, Sergey Primakov, Cary Oberije, Henry Woodruff, Pieter Kubben, Ronald Henry, Marcel JH Aries, Martijn Beudel, Peter G Noordzij, Tom Dormans, 
+Niels C Gritters van den Oever, Joop P van den Bergh, Caroline E Wyers, Suat Simsek, Renée Douma, Auke C Reidinga, Martijn D de Kruif, Julien Guiot, Anne-Noelle Frix, Renaud Louis, Michel Moutschen, Pierre Lovinfosse, Philippe Lambin<br>
+PloS one, 2021 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249920))
 
+_Tremor assessment using smartphone sensor data and fuzzy reasoning_<br>
+Caro Fuchs, Marco S Nobile, Guillaume Zamora, Aurélie Degeneffe, Pieter Kubben, Uzay Kaymak<br>
+BMC bioinformatics, 2021 ([Article](https://link.springer.com/article/10.1186/s12859-021-03961-8))
 
-_MoVi: A large multi-purpose human motion and video dataset_<br>
-Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F Troje<br>
-Plos one, 2021 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253157))
+_A Long-Term, Real-Life Parkinson Monitoring Database Combining Unscripted Objective and Subjective Recordings_<br>
+Jeroen GV Habets, Margot Heijmans, Albert FG Leentjens, Claudia JP Simons, Yasin Temel, Mark L Kuijf, Pieter L Kubben, Christian Herff<br>
+Data, 2021 ([Article](https://www.mdpi.com/2306-5729/6/2/22/pdf))
 
+_Clinical course of COVID-19 in the Netherlands: an overview of 2607 patients in hospital during the first wave_<br>
+Marcel JH Ariës, Joop P van den Bergh, Martijn Beudel, Wim Boersma, Tom Dormans, Renee Douma, Annet Eerens, Paul WG Elbers, Lucas M Fleuren, L de Haan, IJCC van der Horst, S Hu, D Hubers, MLF Janssen, M de Kruif, PL Kubben, SMJ van Kuijk, PG Noordzij, M Ottenhoff, DAI Piña-Fuentes, WV Potters, AC Reidinga, RSC Renckens, S Rigter, D Rusch, M Schinkel, KCE Sigaloff, S Simsek, P Stassen, R Stassen, RM Thomas, GA van Wingen, M Welling, WJ Wiersinga, MDJ Wolvers, CE Wyers<br>
+Nederlands Tijdschrift Voor Geneeskunde, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:mvPsJ3kp5DgC))
 
-_Might a Single Neuron Solve Interesting Machine Learning Problems Through Successive Computations on Its Dendritic Tree?_<br>
-Ilenna Simone Jones, Konrad Paul Kording<br>
-Neural Computation, 2021 ([Article](https://scholar.archive.org/work/xlfiqboes5do5pskt7d2xna5wy/access/wayback/https://watermark.silverchair.com/neco_a_01390.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAApswggKXBgkqhkiG9w0BBwagggKIMIIChAIBADCCAn0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMSdpYrxLN6yOjzCsLAgEQgIICTnXqIZURVtzej68zDrqeakr5lApWtvsdCiJ2EhK8vwGMSilZxqGLjDa6XEOivtB0AcRwgvf8gmKyOZE796TTiXuX19t9VIzuZ3ivE34V4U347xxMzMpKdmyJUtRwjWSYQxWYA-JYwLwwR9ja6RGCi_B_Ai_UoOwfFDqeFEjNex0LwWKehVnO1-DGxcXivXxtjHd02xzcuDE02vySExqfk-O37qjeB6a0-L_48Rz5w0SQ7y8rRC-xwUc2BLJZssdRpUmiFs_cbCboPRgqjdXSeMC_U6phkWzHzjdIKGpv0cRoM51wxomlj87kflhS8u2xlAf1ZJAglbqFx8qd9jDqTRuhoutLtKpW-VWRlzartoskVxxqBHcYvW2WR-k_Nufg80sNRc9kYmZ9E2Z_YGOogkFud0qO94sVrrWV-Ef1eik93t_wOZFCFotEAaIRTKOj1G_3wlGpmxTtsS3cwvvaqZdN381oQq0bwQZU6aF295Dq5dRecg18fk40PnR5M9aYiDplc6BGiURgueLSujcq_rEDWwNq047UmBdAZYG4alzkYztUtrJbz5LrM-ZoyfacXdutWwTpgbgoS5qOS6ZBqbvN0e4tFmzQTwjOUmsV8UIJAp-3Gm8n2ZSelZktgY4FBtbfm2va7h9YCDXqnWmIGj2WHSfKOtai8CcFXVhYKzQ53Tp5BRF8FsKyF0qcOLLTTJg6vMs623jsWiv0doW0Ix2NlnnKKobcZf0tGWUPXwKq_61YLkrksmuMyWsOOXRQzyVXAwMZoFhLzGkUCq6D))
+_Rapid dynamic naturalistic monitoring of bradykinesia in Parkinson’s disease using a wrist-worn accelerometer_<br>
+Jeroen GV Habets, Christian Herff, Pieter L Kubben, Mark L Kuijf, Yasin Temel, Luc JW Evers, Bastiaan R Bloem, Philip A Starr, Simon Little<br>
+bioRxiv, 2021 ([Article](https://www.biorxiv.org/content/10.1101/2021.09.03.458142.full.pdf))
 
-_Do biological constraints impair dendritic computation?_<br>
-Ilenna Simone Jones, Konrad Paul Kording<br>
-arXiv preprint arXiv:2103.03274, 2021 ([Article](https://arxiv.org/pdf/2103.03274))
+_The association between surgical characteristics and cognitive decline following deep brain stimulation of the subthalamic nucleus in Parkinson’s disease_<br>
+Anne EP Mulders, Yasin Temel, Mehmet Tonge, Frédéric LWVJ Schaper, Vivianne van Kranen-Mastenbroek, Linda Ackermans, Pieter Kubben, Marcus LF Janssen, Annelien Duits<br>    
+Clinical Neurology and Neurosurgery, 2021 ([Article](https://www.sciencedirect.com/science/article/pii/S0303846720306843))
 
-_Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules_<br>
-Jeffrey Cheng, Ari Benjamin, Benjamin Lansdell, Konrad Paul Kordin<br>
-arXiv preprint arXiv:2103.10252, 2021 ([Article](https://arxiv.org/pdf/2103.10252))
+_Adaptive median feature baseline correction for improving recognition of epileptic seizures in ICU EEG_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Erik D Gommer, Danny MW Hilkman, Yasin Temel, Shyam Vasudeva Rao, Pieter L Kubben<br>
+Neurocomputing, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:4fKUyHm3Qg0C))
 
-_A critical reappraisal of predicting suicidal ideation using fMRI_<br>
-Timothy Verstynen, Konrad Kording<br>
-arXiv preprint arXiv:2103.06114, 2021 ([Article](https://arxiv.org/pdf/2103.06114))
+_Serial measurements in COVID-19-induced acute respiratory disease to unravel heterogeneity of the disease course: design of the Maastricht Intensive Care COVID cohort (MaastrICCht)_<br>
+Jeanette Tas, Rob JJ Van Gassel, Serge JH Heines, Mark MG Mulder, Nanon FL Heijnen, Melanie J Acampo-de Jong, Julia LM Bels, Frank C Bennis, Marcel Koelmann, Rald VM Groven, Moniek A Donkers, Frank Van Rosmalen, Ben JM Hermans, Steven JR Meex, Alma Mingels, Otto Bekers, Paul Savelkoul, Astrid ML Oude Lashof, Joachim Wildberger, Fabian H Tijssen, Wolfgang Buhre, Jan-Willem EM Sels, Chahinda Ghossein-Doha, Rob GH Driessen, Pieter L Kubben, Marcus LF Janssen, Gerry AF Nicolaes, Ulrich Strauch, Zafer Geyik, Thijs SR Delnoij, Kim HM Walraven, Coen DA Stehouwer, Jeanine AMCF Verbunt, Walther NKA Van Mook, Susanne Van Santen, Ronny M Schnabel, Marcel JH Aries, Marcel CG Van De Poll, Dennis 
+Bergmans, Iwan CC Van Der Horst, Sander Van Kuijk, Bas CT Van Bussel<br>
+BMJ open, 2020 ([Article](https://bmjopen.bmj.com/content/10/9/e040175.abstract))
 
-_Towards Democratizing and Automating Online Conferences: Lessons from the Neuromatch Conferences_<br>
-Titipat Achakulvisut, Tulakan Ruangrong, Patrick Mineault, Tim P Vogels, Megan AK Peters, Panayiota Poirazi, Christopher Rozell, Brad Wyble, Dan FM Goodman, Konrad Paul Kording<br>
-Trends in Cognitive Sciences, 2021 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MiFqJGcAAAAJ&sortby=pubdate&citation_for_view=MiFqJGcAAAAJ:y2egTTA-ddEC))
+_Cross-database evaluation of EEG based epileptic seizures detection driven by adaptive median feature baseline correction_<br>
+S Raghu, Natarajan Sriraam, Erik D Gommer, Danny MW Hilkman, Yasin Temel, Shyam Vasudeva Rao, Alangar Satyaranjandas Hegde, Pieter L Kubben<br>
+Clinical Neurophysiology, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:08ZZubdj9fEC))
 
-_A Philosophical Understanding of Representation for Neuroscience_<br>
-Ben Baker, Benjamin Lansdell, Konrad Kording<br>
-arXiv preprint arXiv:2102.06592, 2021 ([Article](https://arxiv.org/pdf/2102.06592))
+_Automated detection of epileptic seizures using successive decomposition index and support vector machine classifier in long-term EEG_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Shyam Vasudeva Rao, Alangar Sathyaranjan Hegde, Pieter L Kubben<br>
+Neural Computing and Applications, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:abG-DnoFyZgC))
 
-_A smartphone-based online system for fall detection with alert notifications and contextual information of real-life falls_<br>
-Yaar Harari, Nicholas Shawen, Chaithanya K Mummidisetty, Mark V Albert, Konrad P Kording, Arun Jayaraman<br>
-Journal of neuroengineering and rehabilitation, 2021 ([Article](https://link.springer.com/article/10.1186/s12984-021-00918-z))
+_Prefrontal High Gamma in ECoG tags periodicity of musical rhythms in perception and imagination_<br>
+Steffen A Herff, Christian Herff, Andrew J Milne, Garett Johnson, Jerry J Shih, Dean J Krusienski<br>
+eNeuro, 2020 ([Article](https://www.biorxiv.org/content/biorxiv/early/2020/02/11/784991.full.pdf))
 
-_Energy expenditure does not explain step length-width choices during walking_<br>
-Stephen A Antos, Konrad P Kording, Keith E Gordon<br>
-bioRxiv, 2021 ([Article](https://www.biorxiv.org/content/biorxiv/early/2021/04/11/2021.04.11.439375.full.pdf))
+_Brain-computer interfaces and augmented/virtual reality_<br>
+Felix Putze, Athanasios Vourvopoulos, Anatole Lécuyer, Dean Krusienski, Sergi Bermúdez i Badia, Timothy Mullen, Christian Herff<br>
+Frontiers in human neuroscience, 2020 ([Article](https://www.frontiersin.org/articles/10.3389/fnhum.2020.00144/full))
 
-_Recording Temporal Signals with Minutes Resolution Using Enzymatic DNA Synthesis_<br>
-Namita Bhan, Alec Callisto, Jonathan Strutz, Joshua Glaser, Reza Kalhor, Edward Boyden, George Church, Konrad Kording, Keith EJ Tyo<br>
-bioRxiv, 2021 ([Article](https://www.biorxiv.org/content/10.1101/2021.07.14.452380.full.pdf))
+_Complexity analysis and dynamic characteristics of EEG using MODWT based entropies for identification of seizure onset_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Yasin Temel, Shyam Vasudeva Rao, Alangar Sathyaranjan Hegde, Pieter L Kubben<br>
+Journal of biomedical research, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7324271/))
 
-_Quantifying causality in data science with quasi-experiments_<br>
-Tony Liu, Lyle Ungar, Konrad Kording<br>
-Nature Computational Science, 2021 ([Article](https://www-nature-com-s.caas.cn/articles/s43588-020-00005-8?error=cookies_not_supported&code=c2bb78f9-f88f-46ad-a494-cab9222bb2ff))
+_Mobile apps for neuroscience_<br>
+Albert-Jan Plate, Pieter Kubben<br>
+Neurotechnology: Methods, advances and applications, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:sSrBHYA8nusC))
 
-### 2020
+_EEG based multi-class seizure type classification using convolutional neural network and transfer learning_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Yasin Temel, Shyam Vasudeva Rao, Pieter L Kubben<br>
+Neural Networks, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:738O_yMBCRsC))
 
-_Neuromatch Academy: teaching computational neuroscience with global accessibility_<br>
-Tara van Viegen, Athena Akrami, Kate Bonnen, Eric DeWitt, Alexandre Hyafil, Helena Ledmyr, Grace W Lindsay, Patrick Mineault, John D Murray, Xaq Pitkow, Aina Puce, Madineh Sedigh-Sarvestani, Carsen Stringer, Titipat Achakulvisut, Elnaz Alikarami, Melvin Selim Atay, Eleanor Batty, Jeffrey C Erlich, Byron V Galbraith, Yueqi Guo, Ashley L Juavinett, Matthew R Krause, Songting Li, Marius Pachitariu, Elizabeth Straley, Davide Valeriani, Emma Vaughan, Maryam Vaziri-Pashkam, Michael L Waskom, Gunnar Blohm, Konrad Kording, Paul Schrater, Brad Wyble, Sean Escola, Megan AK Peters<br>
-arXiv preprint arXiv:2012.08973, 2020 ([Article](https://arxiv.org/pdf/2012.08973))
 
-_Reverse-engineering deep ReLU networks_<br>
-David Rolnick, Konrad Kording<br>
-ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
+_The potential of stereotactic-EEG for brain-computer interfaces: current progress and future directions_<br>
+Christian Herff, Dean J Krusienski, Pieter Kubben<br>
+Frontiers in Neuroscience, 2020 ([Article](https://www.frontiersin.org/articles/10.3389/fnins.2020.00123/full))
 
-_Computer vision to automatically assess infant neuromotor risk_<br>
-Claire Chambers, Nidhi Seethapathi, Rachit Saluja, Helen Loeb, Samuel R Pierce, Daniel K Bogen, Laura Prosser, Michelle J Johnson, Konrad P Kording<br>
-IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2020 ([Article](https://ieeexplore.ieee.org/iel7/7333/9250399/09214853.pdf))
+_Machine learning prediction of motor response after deep brain stimulation in Parkinson’s disease—proof of principle in a retrospective cohort_<br>
+Jeroen GV Habets, Marcus LF Janssen, Annelien A Duits, Laura CJ Sijben, Anne EP Mulders, Bianca De Greef, Yasin Temel, Mark L Kuijf, Pieter L Kubben, Christian Herff<br>    
+PeerJ, 2020 ([Article](https://peerj.com/articles/10317/))
 
-_Probing the Effective Treatment Thresholds for Alteplase in Acute Ischemic Stroke With Regression Discontinuity Designs_<br>
-Andrew M Naidech, Patrick N Lawlor, Haolin Xu, Gregg C Fonarow, ..., Shyam Prabhakaran, Ioana Marinescu, Konrad P Kording<br>
-Frontiers in neurology, 2020 ([Article](https://www.frontiersin.org/articles/10.3389/fneur.2020.00961/full))
+_Predicting mortality of individual COVID-19 patients: A multicenter Dutch cohort_<br>
+Maarten C Ottenhoff, Lucas A Ramos, Wouter Potters, Marcus LF Janssen, Deborah Hubers, Dan Pina-Fuentes, Rajat Thomas, Iwan CC van der Horst, Christian Herff, Pieter Kubben, Paul WG Elbers, Henk A Marquering, Max Welling, Shi Hu, Suat Simsek, Martijn D de Kruif, Tom Dorman, Lucas M Fleuren, Michiel Schinkel, Peter G Noordzij, Joop P van den Bergh, Caroline E Wyers, David TP Buis, Joost Wiersinga, Ella HC van den Hout, Auke C Reidinga, Daisy Rusch, Kim CE Sigaloff, Renee A Douma, Lianne de Haan, Egill A Fridgeirsson, Niels C Gritters van de Oever, Roger JMW Rennenberg, Guido van Wingen, Marcel JH Aries, Martijn Beudel<br>
+medRxiv, 2020 ([Article](https://www.medrxiv.org/content/medrxiv/early/2020/10/13/2020.10.10.20210591.full.pdf))
 
-_Can Single Neurons Solve MNIST? The Computational Power of Biological Dendritic Trees_<br>
-Ilenna Simone Jones, Konrad Paul Kording<br>
-arXiv, 2020 ([Article](https://arxiv.org/pdf/2009.01269))
+_Mobile health daily life monitoring for Parkinson disease: development and validation of ecological momentary assessments_<br>
+Jeroen Habets, Margot Heijmans, Christian Herff, Claudia Simons, Albert FG Leentjens, Yasin Temel, Mark Kuijf, Pieter Kubben<br>
+JMIR mHealth and uHealth, 2020 ([Article](https://mhealth.jmir.org/2020/5/e15628/))
 
-_Different scaling of linear models and deep learning in UKBiobank brain images versus machine-learning datasets_<br>
-Marc-Andre Schulz, BT Thomas Yeo, Joshua T Vogelstein, Janaina Mourao-Miranada, Jakob N Kather, Konrad Kording, Blake Richards, Danilo Bzdok<br>
-Nature communications, 2020 ([Article](https://www.nature.com/articles/s41467-020-18037-z))
 
-_Machine learning for neural decoding_<br>
-Joshua I Glaser, Ari S Benjamin, Raeed H Chowdhury, Matthew G Perich, Lee E Miller, Konrad P Kording<br>
-Eneuro, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7470933/))
 
-_An adversarial algorithm for variational inference with a new role for acetylcholine_<br>
-Ari S Benjamin, Konrad P Kording<br>
-arXiv, 2020 ([Article](https://arxiv.org/pdf/2006.10811))
+_A Smartphone-Based Clinical Decision Support System for Tremor Assessment_<br>
+Pieter Kubben, Uzay Kaymak<br>
+Computational Intelligence Methods for Bioinformatics and Biostatistics: 16th International Meeting, CIBB 2019, Bergamo, Italy, September 4-6, 2019, Revised Selected Papers, 2020 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:D_sINldO8mEC))
 
-_PDE constraints on smooth hierarchical functions computed by neural networks_<br>
-Khashayar Filom, Konrad Paul Kording, Roozbeh Farhoodi<br>
-arXiv, 2020 ([Article](https://arxiv.org/pdf/2005.08859))
+_Understanding Medical Students’ Attitudes Toward Learning eHealth: Questionnaire Study_<br>
+Kjeld Vossen, Jan-Joost Rethans, Sander MJ van Kuijk, Cees P van der Vleuten, Pieter L Kubben<br>
+JMIR medical education, 2020 ([Article](https://mededu.jmir.org/2020/2/e17030?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0))
 
-_Point of View: Improving on legacy conferences by moving online_<br>
-Titipat Achakulvisut, Tulakan Ruangrong, Isil Bilgin, Sofie Van Den Bossche, Brad Wyble, Dan FM Goodman, Konrad P Kording<br>
-Elife, 2020 ([Article](https://elifesciences.org/articles/57892))
+_Protocol: Serial measurements in COVID-19-induced acute respiratory disease to unravel heterogeneity of the disease course: design of the Maastricht Intensive Care COVID cohort (MaastrICCht)_<br>
+Jeanette Tas, Rob JJ van Gassel, Serge JH Heines, Mark MG Mulder, Nanon FL Heijnen, Melanie J Acampo-de Jong, Julia LM Bels, Frank C Bennis, Marcel Koelmann, Rald VM Groven, Moniek A Donkers, Frank van Rosmalen, Ben JM Hermans, Steven JR Meex, Alma MA Mingels, Otto Bekers, Paul HM Savelkoul, Astrid ML Oude Lashof, Joachim E Wildberger, Fabian H Tijssen, Wolfgang FFA Buhre, Jan-Willem EM Sels, Chahinda Ghossein-Doha, Rob GH Driessen, Pieter L Kubben, Marcus LF Janssen, Gerry AF Nicolaes, Ulrich Strauch, Zafer Geyik, Thijs SR Delnoij, Kim HM Walraven, Coen DA Stehouwer, Jeanine AMCF Verbunt, Walther NKA Van Mook, Susanne van Santen, Ronny M Schnabel, Marcel JH Aries, Marcel CG van de Poll, Dennis CJJ Bergmans, Iwan CC van der Horst, Sander MJ van Kuijk, Bas CT van Bussel<br>
+BMJ Open, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7526030/))
 
-_From prior information to saccade selection: evolution of frontal eye field activity during natural scene search_<br>
-Joshua I Glaser, Daniel K Wood, Patrick N Lawlor, Mark A Segraves, Konrad P Kording<br>
-Cerebral Cortex, 2020 ([Article](https://academic.oup.com/cercor/article/30/3/1957/5588869))
 
-_MoVi: A Large Multipurpose Motion and Video Dataset_<br>
-Saeed Ghorbani, Kimia Mahdaviani, Anne Thaler, Konrad Kording, Douglas James Cook, Gunnar Blohm, Nikolaus F Troje<br>
-arXiv, 2020 ([Article](https://arxiv.org/pdf/2003.01888))
 
-_Appreciating the variety of goals in computational neuroscience_<br>
-Konrad P Kording, Gunnar Blohm, Paul Schrater, Kendrick Kay<br>
-arXiv, 2020 ([Article](https://arxiv.org/pdf/2002.03211))
+_Monitoring Parkinson’s disease symptoms during daily life: a feasibility study_<br>
+Margot Heijmans, Jeroen GV Habets, Christian Herff, Jos Aarts, An Stevens, Mark L Kuijf, Pieter L Kubben<br>
+npj Parkinson's Disease, 2019 ([Article](https://www.nature.com/articles/s41531-019-0093-5.pdf?origin=ppub))
 
-_Pubmed parser: A python parser for pubmed open-access xml subset and medline xml dataset xml dataset_<br>
-Titipat Achakulvisut, Daniel E Acuna, Konrad Kording<br>
-Journal of Open Source Software, 2020 ([Article](https://joss.theoj.org/papers/10.21105/joss.01979.pdf))
+_A novel approach for classification of epileptic seizures using matrix determinant_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Alangar Sathyaranjan Hegde, Pieter L Kubben<br>
+Expert Systems with Applications, 2019 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:cFHS6HbyZ2cC))
 
-_Improving on legacy conferences by moving online_<br>
-Achakulvisut Titipat, Ruangrong Tulakan, Bilgin Isil, Brad Wyble, Konrad P Kording<br>
-eLife, 2020 ([Article](http://search.proquest.com/openview/aaeca1db01f6c76d665d9f392c036bca/1?pq-origsite=gscholar&cbl=2045579))
+_Workshops of the seventh international brain-computer interface meeting: not getting lost in translation_<br>
+Jane E Huggins, Christoph Guger, Erik Aarnoutse, Brendan Allison, Charles W Anderson, Steven Bedrick, Walter Besio, Ricardo Chavarriaga, Jennifer L Collinger, An H Do, Christian Herff, Matthias Hohmann, Michelle Kinsella, Kyuhwa Lee, Fabien Lotte, Gernot Müller-Putz, Anton Nijholt, Elmar Pels, Betts Peters, Felix Putze, Rüdiger Rupp, Gerwin Schalk, Stephanie Scott, Michael Tangermann, Paul Tubig, Thorsten Zander<br>
+Brain-Computer Interfaces, 2019 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7539697/))
 
-_A three-dimensional thalamocortical dataset for characterizing brain heterogeneity_<br>
-Judy A Prasad, Aishwarya H Balwani, Erik C Johnson, Joseph D Miano, ..., Konrad P Kording, Doga Gürsoy, William Gray-Roncal, Narayanan Kasthuri, Eva L Dyer<br>
-bioRxiv, 2020 ([Article](https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.22.111617.full.pdf))
 
-_neuromatch: Algorithms to match scientists_<br>
-Titipat Achakulvisut, Tulakan Ruangrong, D Acuna, Brad Wyble, Dan Goodman, Konrad Kording<br>
-eLife Labs, 2020 ([Article](https://elifesciences.org/labs/5ed408f4/neuromatch-algorithms-to-match-scientists))
 
-_COVID-19 pandemic: every day feels like a weekday to most_<br>
-Tony Liu, Jonah Meyerhoff, David C Mohr, Lyle H Ungar, Konrad P Kording<br>
-medRxiv, 2020 ([Article](https://www.medrxiv.org/content/medrxiv/early/2020/05/18/2020.05.11.20098228.full.pdf))
 
-_A web-based automated machine learning platform to analyze liquid biopsy data_<br>
-Hanfei Shen, Tony Liu, Jesse Cui, Piyush Borole, Ari Benjamin, Konrad Kording, David Issadore<br>
-Lab on a Chip, 2020 ([Article](https://pubs.rsc.org/en/content/articlehtml/2020/lc/d0lc00096e))
 
-_Pyglmnet: Python implementation of elastic-net regularized generalized linear models_<br>
-Mainak Jas, Titipat Achakulvisut, Aid Idrizović, Daniel Acuna, ..., Eva Dyer, Matti Hamalainen, Konrad Kording, Pavan Ramkumar<br>
-Journal of Open Source Software, 2020 ([Article](https://biblio.ugent.be/publication/8650816/file/8650817))
 
-_A how-to-model guide for Neuroscience_<br>
-Gunnar Blohm, Konrad P Kording, Paul R Schrater<br>
-Eneuro, 2020 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7031850/))
+_Performance evaluation of DWT based sigmoid entropy in time and frequency domains for automated detection of epileptic seizures using SVM classifier_<br>
+Shivarudhrappa Raghu, Natarajan Sriraam, Yasin Temel, Shyam Vasudeva Rao, Alangar Satyaranjandas Hegde, Pieter L Kubben<br>
+Computers in biology and medicine, 2019 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:D03iK_w7-QYC))
 
-### 2019
+_Deep brain stimulation of the anterior nucleus of the thalamus for drug-resistant epilepsy_<br>
+Tim AM Bouwens Van Der Vlis, Olaf EMG Schijns, Frédéric LWVJ Schaper, Govert Hoogland, Pieter Kubben, Louis Wagner, Rob Rouhl, Yasin Temel, Linda Ackermans<br>
+Neurosurgical review, 2019 ([Article](https://link.springer.com/article/10.1007/s10143-017-0941-x))
 
-_Machine Learning for Phone-Based Relationship Estimation: The Need to Consider Population Heterogeneity_<br>
-Tony Liu, Jennifer Nicholas, Max M Theilig, Sharath C Guntuku, Konrad Kording, David C Mohr, Lyle Ungar<br>
-Proceedings of the ACM on IMWUT 2019 ([Article](https://dl.acm.org/doi/pdf/10.1145/3369820))
+_Interpretation of convolutional neural networks for speech spectrogram regression from intracranial recordings_<br>
+Miguel Angrick, Christian Herff, Garett Johnson, Jerry Shih, Dean Krusienski, Tanja Schultz<br>
+Neurocomputing, 2019 ([Article](https://www.sciencedirect.com/science/article/am/pii/S092523121930133X))
 
-_End-to-end Training of CNN-CRF via Differentiable Dual-Decomposition_<br>
-Shaofei Wang, Vishnu Lokhande, Maneesh Singh, Konrad Kording, Julian Yarkony<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1912.02937))
+_Speech synthesis from ECoG using densely connected 3D convolutional neural networks_<br>
+Miguel Angrick, Christian Herff, Emily Mugler, Matthew C Tate, Marc W Slutzky, Dean J Krusienski, Tanja Schultz<br>
+Journal of neural engineering, 2019 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6822609/))
 
-_A deep learning framework for neuroscience_<br>
-Blake A Richards, Timothy P Lillicrap, ..., Konrad P Kording<br>
-Nature Neuroscience, 2019 ([Article](https://www.nature.com/articles/s41593-019-0520-2))
 
-_Spike-based causal inference for weight alignment_<br>
-Jordan Guerguiev, Konrad P Kording, Blake A Richards<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1910.01689))
 
-_Identifying Weights and Architectures of Unknown ReLU Networks_<br>
-David Rolnick, Konrad P Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1910.00744))
+_Generating natural, intelligible speech from brain activity in motor, premotor, and inferior frontal cortices_<br>
+Christian Herff, Lorenz Diener, Miguel Angrick, Emily Mugler, Matthew C Tate, Matthew A Goldrick, Dean J Krusienski, Marc W Slutzky, Tanja Schultz<br>
+Frontiers in Neuroscience, 2019 ([Article](https://www.frontiersin.org/articles/10.3389/fnins.2019.01267/full))
 
-_Towards learning-to-learn_<br>
-Benjamin James Lansdell, Konrad Paul Kording<br>
-Current Opinion in Behavioral Sciences, 2019 ([Article](https://arxiv.org/pdf/1811.00231))
 
-_Augmenting Supervised Learning by Meta-learning Unsupervised Local Rules_<br>
-Jeffrey Siedar Cheng, Ari Benjamin, Benjamin Lansdell, Konrad Paul Kording<br>
-OpenReview, 2019 ([Article](https://openreview.net/pdf?id=HJlKNmFIUB))
 
-_A Deep Dive to Illuminate V4 Neurons_<br>
-Aaron P Batista, Konrad P Kording<br>
-Trends in neurosciences, 2019 ([Article](https://www.sciencedirect.com/science/article/pii/S0166223619301110?via%3Dihub))
+_Machine learning prediction of motor response after deep brain stimulation in Parkinson's disease_<br>
+Jeroen GV Habets, Annelien A Duits, Laura CJ Sijben, Bianca De Greef, Anne Mulders, Yasin Temel, Mark L Kuijf, Pieter L Kubben, Christian Herff, Marcus LF Janssen<br>       
+medRxiv, 2019 ([Article](https://www.medrxiv.org/content/medrxiv/early/2019/10/05/19006841.full.pdf))
 
-_Movement science needs different pose tracking algorithms_<br>
-Nidhi Seethapathi, Shaofei Wang, Rachit Saluja, Gunnar Blohm, Konrad P Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.10226))
+_Estimating cognitive workload in an interactive virtual reality environment using EEG_<br>
+Christoph Tremmel, Christian Herff, Tetsuya Sato, Krzysztof Rechowicz, Yusuke Yamani, Dean J Krusienski<br>
+Frontiers in Human Neuroscience, 2019 ([Article](https://www.frontiersin.org/articles/10.3389/fnhum.2019.00401/full))
 
-_What does it mean to understand a neural network?_<br>
-Timothy P Lillicrap, Konrad P Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.06374))
 
-_Reverse engineering neural networks from many partial recordings_<br>
-Elahe Arani, Sofia Triantafillou, Konrad P Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1907.01588))
+_Data Sources_<br>
+Pieter Kubben<br>
+Fundamentals of Clinical Data Science, 2019 ([Article](https://library.oapen.org/bitstream/handle/20.500.12657/22918/1007243.pdf?sequence=1#page=10))
 
-_Pose estimates from online videos show that side-by-side walkers synchronize movement under naturalistic conditions_<br>
-Claire Chambers, Gaiqing Kong, Kunlin Wei, Konrad Kording<br>
-PloS One, 2019 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217861))
 
-_Learning to solve the credit assignment problem_<br>
-Benjamin James Lansdell, Prashanth Prakash, Konrad Paul Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1906.00889))
+_Stereotactic accuracy and frame mounting: A phantom study_<br>
+Onur Alptekin, Felix S Gubler, Linda Ackermans, Pieter L Kubben, Mark L Kuijf, Ersoy Kocabicak, Yasin Temel<br>
+Surgical neurology international, 2019 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6744823/))
 
-_Rarely-switching linear bandits: optimization of causal effects for the real world_<br>
-Benjamin Lansdell, Sofia Triantafillou, Konrad Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.13121))
+_Feasibility of using a low-cost head-mounted augmented reality device in the operating room_<br>
+Pieter L Kubben, Remir SN Sinlae<br>
+Surgical neurology international, 2019 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6416754/))
 
-_Sensorimotor priors are effector dependent_<br>
-Cong Yin, Huijun Wang, Kunlin Wei, Konrad P Körding<br>
-Journal of neurophysiology, 2019 ([Article](https://www.physiology.org/doi/pdfplus/10.1152/jn.00228.2018))
 
+_Mobile apps_<br>
+Pieter Kubben<br>
+Fundamentals of Clinical Data Science, 2019 ([Article](https://library.oapen.org/bitstream/handle/20.500.12657/22918/1007243.pdf?sequence=1#page=170))
 
-_Quantifying the role of neurons for behavior is a mediation question_<br>
-Ilenna Simone Jones, Konrad Paul Kording<br>
-arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.02024))
+_Predicting altcoin returns using social media_<br>
+Lars Steinert, Christian Herff<br>
+PloS one, 2018 ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208119))
 
-_Policies or knowledge: priors differ between a perceptual and sensorimotor task_<br>
-Claire Chambers, Hugo Fernandes, Konrad Paul Kording<br>
-Journal of neurophysiology, 2019 ([Article](https://www.physiology.org/doi/pdf/10.1152/jn.00035.2018))
+_An update on adaptive deep brain stimulation in Parkinson's disease_<br>
+Jeroen GV Habets, Margot Heijmans, Mark L Kuijf, Marcus LF Janssen, Yasin Temel, Pieter L Kubben<br>
+Movement Disorders, 2018 ([Article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mds.115))
 
-_Smartwatches Can Detect Walker and Cane Use in Older Adults_<br>
-Stephen A Antos, Margaret K Danilovich, Amy R Eisenstein, Keith E Gordon, Konrad P Kording<br>
-Innovation in aging, 2019 ([Article](https://academic.oup.com/innovateage/article/3/1/igz008/5476372))
 
-_On functions computed on trees_<br>
-Roozbeh Farhoodi, Khashayar Filom, Ilenna Simone Jones, Konrad Paul Kording<br>
-Neural Computation, 2019 ([Article](https://arxiv.org/pdf/1904.02309.pdf)
+_Management of hardware related infections after DBS surgery: a cost analysis_<br>
+Pim Wetzelaer, Tim Vlis, Mehmet Tonge, Linda Ackermans, Pieter Kubben, Silvia Evers, Ersoy Kocabicak, Yasin Temel<br>
+Turk Neurosurg, 2018 ([Article](http://www.neurosurgery.dergisi.org/pdf.php?&id=2097))
 
-_Regression Discontinuity Threshold Optimization_<br>
-Ioana Elena Marinescu, Sofia Triantafillou, Konrad Kording<br>
-SSRN, 2019 ([Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3333334))
+_Perioperative Technical Complications in Deep Brain Stimulation Surgeries_<br>
+Onur Alptekin, Ersoy Kocabicak, Felix S Gubler, Linda Ackermans, Pieter L Kubben, Yasin Temel<br>
+Turkish neurosurgery, 2018 ([Article](http://neurosurgery.dergisi.org/pdf.php?&id=2029))
 
-_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
-Joshua I. Glaser\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
-Progress in Neurobiology, 2019 ([Article](https://arxiv.org/abs/1805.08239))
+_interpretation of convolutional neural networks for speech regression from electrocorticography._<br>
+Miguel Angrick, Christian Herff, Garett Johnson, Jerry Shih, Dean Krusienski, Tanja Schultz<br>
+ESANN 2018 - 26th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2018 ([Article](https://csl.uni-bremen.de/cms/images/documents/publications/angrick_2018esann.pdf))
 
-_Neural spiking for causal inference_<br>
-Benjamin James Lansdell, Konrad Paul Kording<br>
-bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/10.1101/253351v5.full-text))
+_Detection and Estimation of Working Memory States and Cognitive Functions Based on Neurophysiological Measures_<br>
+Felix Putze, Christian Mühl, Fabien Lotte, Stephen Fairclough, Christian Herff<br>
+Frontiers in Human Neuroscience, 2018 ([Article](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00440/abstract))
 
-_Hue tuning curves in V4 change with visual context_<br>
-Ari S Benjamin, Pavan Ramkumar, Hugo Fernandes, Matthew A Smith, Konrad Paul Kording<br>
-bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/09/24/780478.full.pdf))
+_Comparing deep brain stimulation in the ventral intermediate nucleus versus the posterior subthalamic area in essential tremor patients_<br>
+Aurélie Degeneffe, Mark L Kuijf, Linda Ackermans, Yasin Temel, Pieter L Kubben<br>
+Surgical neurology international, 2018 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6293600/))
 
-_Computer vision to automatically assess infant neuromotor risk_<br>
-Claire Chambers, Nidhi Seethapathi, Rachit Saluja, Helen Loeb, Samuel Pierce, Daniel Bogen, Laura Prosser, Michelle J Johnson, Konrad P Kording<br>
-BioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/09/10/756262.full.pdf))
 
-_Quantifying how staining methods bias measurements of neuron morphologies_<br>
-Roozbeh Farhoodi, Benjamin James Lansdell, Konrad Paul Kording<br>
-Frontiers in neuroinformatics, 2019 ([Article](https://www.frontiersin.org/articles/10.3389/fninf.2019.00036/full))
+_Methodology, outcome, safety and in vivo accuracy in traditional frame-based stereoelectroencephalography_<br>
+Lars E van der Loo, Olaf EMG Schijns, Govert Hoogland, Albert J Colon, G Louis Wagner, Jim TA Dings, Pieter L Kubben<br>
+Acta neurochirurgica, 2017 ([Article](https://link.springer.com/article/10.1007/s00701-017-3242-9))
 
-_Relationship Between Sleep Quality and Mood: Ecological Momentary Assessment Study_<br>
-Sofia Triantafillou, Sohrab Saeb, Emily G Lattie, David C Mohr, Konrad Paul Kording<br>
-JMIR mental health, 2019 ([Article](https://mental.jmir.org/2019/3/e12613))
+_Evaluating fNIRS-based workload discrimination in a realistic driving scenario_<br>
+Christian Herff, Felix Putze, Tanja Schultz<br>
+The First Biannual Neuroadaptive Technology, Conference (Berlin:), 2017 ([Article](https://core.ac.uk/download/pdf/189934577.pdf#page=73))
 
-_From prior information to saccade selection: evolution of frontal eye field activity during natural scene search_<br>
-Joshua I Glaser, Daniel K Wood, Patrick N Lawlor, Mark A Segraves, Konrad P Kording
-<br>
-bioRxiv, 2019 ([Article](https://www.biorxiv.org/content/biorxiv/early/2019/03/10/251835.full.pdf))
+_Teaching computer programming to medical doctors, nurses and hospital staff: a pilot study_<br>
+Pieter L Kubben, Pepijn Looije, Albert Scherpbier, Frits van Merode<br>
+Open Acces J Neurol Neurosurg, 2017 ([Article](https://www.researchgate.net/profile/Pieter-Kubben-2/publication/321391079_Teaching_Computer_Programming_to_Medical_Doctors_Nurses_and_Hospital_Staff_A_Pilot_Study/links/5bad103c92851ca9ed2a4bc1/Teaching-Computer-Programming-to-Medical-Doctors-Nurses-and-Hospital-Staff-A-Pilot-Study.pdf))
 
-_Ten simple rules for organizing and running a successful intensive two-week course_<br>
-Gunnar Blohm, Paul Schrater, Konrad Körding<br>
-Neural computation, 2019 ([Article](https://www.mitpressjournals.org/doi/full/10.1162/neco_a_01146))
+_Workshops of the Sixth International Brain–Computer Interface Meeting: brain–computer interfaces past, present, and future_<br>
+Jane E Huggins, Christoph Guger, Mounia Ziat, Thorsten O Zander, Denise Taylor, Michael Tangermann, Aureli Soria-Frisch, John Simeral, Reinhold Scherer, Rüdiger Rupp, Giulio Ruffini, Douglas KR Robinson, Nick F Ramsey, Anton Nijholt, Gernot Müller-Putz, Dennis J McFarland, Donatella Mattia, Brent J Lance, Pieter-Jan Kindermans, Iñaki Iturrate, 
+Christian Herff, Disha Gupta, An H Do, Jennifer L Collinger, Ricardo Chavarriaga, Steven M Chase, Martin G Bleichner, Aaron Batista, Charles W Anderson, Erik J Aarnoutse<br>Brain-Computer Interfaces, 2017 ([Article](https://www.tandfonline.com/doi/pdf/10.1080/2326263X.2016.1275488))
 
-### 2018
+_Biosignal-based spoken communication: A survey_<br>
+Tanja Schultz, Michael Wand, Thomas Hueber, Dean J Krusienski, Christian Herff, Jonathan S Brumberg<br>
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2017 ([Article](https://drive.google.com/file/u/0/d/1xWc_8af9oZtyvlbEYhd1rIa4FivyiiC3/view))
 
-_Population coding of conditional probability distributions in dorsal premotor cortex_<br>
-Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
-Nature Communications, 2018 ([Article](https://www.nature.com/articles/s41467-018-04062-6))
 
-_Linear-Nonlinear-Time-Warp-Poisson models of neural activity_<br>
-Patrick N. Lawlor, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
-Biorxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/22/194498)) ([Code](https://github.com/pnlawlor/LNTWP))
+_Signal Characterization for a Musical Rhythm BCI_<br>
+Steffen A Herff, GD Johnson, Andrew J Milne, Christian Herff, J Kim, JJ Shih, DJ Krusienski<br>
+Proceedings of 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'17): International Convention Centre, Jeju Island, Korea, July 11 to 15, 2017, 2017 ([Article](https://www.csl.uni-bremen.de/cms/images/documents/publications/Herff2017MusicBCI.pdf))
 
-_Quasi-experimental causality in neuroscience and behavioural research_<br>
-Ioana E Marinescu, Patrick N Lawlor, Konrad P Kording<br>
-Nature, 2018 ([Article](https://www.nature.com/articles/s41562-018-0466-5.pdf?origin=ppub))
+_Delayed cerebral ischemia after subarachnoid hemorrhage: Comparing and integrating classification systems_<br>
+Pieter L Kubben, Menno R Germans, Ramazan Jabbarli<br>
+Surgical neurology international, 2017 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5502297/))
 
-_The development of Bayesian integration in sensorimotor estimation_<br>
-Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad Paul Kording<br>
-Journal of Vision, 2018 ([Article](https://jov.arvojournals.org/article.aspx?articleid=2715085))
+_NeuroMind: Past, present, and future_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2017 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5609441/))
 
-_Behavioral tracking gets real_<br>
-Kunlin Wei, Konrad Paul Kording<br>
-Nature neuroscience, 2018 ([Article](https://www.nature.com/articles/s41593-018-0215-0))
+_Infections in deep brain stimulation: Shaving versus not shaving_<br>
+Felix S Gubler, Linda Ackermans, Pieter L Kubben, Aysun Damci, Mark L Kuijf, Mayke Oosterloo, R Jeroen Vermeulen, Sarah Hescham, Ersoy Kocabicak, Erkan Kurt, Yasin Temel<br>Surgical neurology international, 2017 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655757/))
 
-_Measuring and regularizing networks in function space_<br>
-Ari S Benjamin, David Rolnick, Konrad Kording<br>
-ArXiv, 2018 ([Article](https://arxiv.org/abs/1805.08289))
+_Introducing “computational neurosurgery”_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2017 ([Article](https://pdfs.semanticscholar.org/31c6/b3b68b280ee3c55be5df5332116010885782.pdf))
 
-_Technology to Track Adherence: Smartwatches Can Detect Walker and Cane Use in Older Adults at High Risk of Falls_<br>
-Stephen Antos, Margaret Danilovich, Keith E Gordon, Konrad P Kording
-HPA Resource, 2018 ([Article](http://eds.a.ebscohost.com/abstract?site=eds&scope=site&jrnl=19316313&AN=136788990&h=ZQoMHnezxUcFepp69EmLphwZXyUiijcpj8g5dtIDyspj6hEeS5eion3Xmn%2fN%2fU%2fHwvJLIvDP0vi7AxDYxIalHA%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19316313%26AN%3d136788990))
+_EP 12. TREMOR12: An open-source mobile app for tremor quantification_<br>
+P Kubben, M Kuijf, L Ackermans, A Leentjens, Y Temel<br>
+Clinical Neurophysiology, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:RHpTSmoSYBkC))
 
-_Improving generalization by regularizing in L2 function space_<br>
-Ari S Benjamin, Konrad Kording<br>
-Openreview, 2018 ([Article](https://openreview.net/pdf?id=H1l8sz-AW))
+_EP 13. Tailored anesthetic techniques in patients with severe Tourette Syndrome undergoing surgery for Deep Brain Stimulation_<br>
+M Bos, L Ackermans, A Smeets, P Kubben, V van Kranen-Mastenbroek, A Leentjens, W Buhre, V Visser-Vandewalle, Y Temel<br>
+Clinical Neurophysiology, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:4JMBOYKVnBMC))
 
-_The development of Bayesian integration in sensorimotor estimation_<br>
-Claire Chambers, Taegh Sokhey, Debora Gaebler-Spira, Konrad Paul Kording
-Jorunal of Vision, 2018 ([Article](https://jov.arvojournals.org/arvo/content_public/journal/jov/937613/i1534-7362-18-12-8.pdf))
 
-_Although optimal models are useful, optimality claims are not that common_<br>
-Claire Chambers, Konrad Paul Kording
-Behavioral and Brain Sciences, 2018([Article](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/although-optimal-models-are-useful-optimality-claims-are-not-that-common/539D5E0428CA907A2FAA9CBDF06B83AB))
 
-_Inferring causal connectivity from pairwise recordings and optogenetics_<br>
-Mikkel Elle Lepperød, Tristan Stöber, Torkel Hafting, Marianne Fyhn, Konrad Paul Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/11/06/463760.full.pdf))
+_Technical feasibility of integrating 7 T anatomical MRI in image-guided radiotherapy of glioblastoma: a preparatory study_<br>
+Inge Compter, Jurgen Peerlings, Daniëlle BP Eekers, Alida A Postma, Dimo Ivanov, Christopher J Wiggins, Pieter Kubben, Benno Küsters, Pieter Wesseling, Linda Ackermans, Olaf EMG Schijns, Philippe Lambin, Aswin L Hoffmann<br>
+Magnetic Resonance Materials in Physics, Biology and Medicine, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:R3hNpaxXUhUC))
 
-_Modern machine learning as a benchmark for fitting neural responses_<br>
-Ari Sommer Benjamin, Hugo Fernandes, Tucker Tomlinson, Pavan Ramkumar, Chris VerSteeg, Raeed Chowdhury, Lee E Miller, Konrad Kording<br>
-Frontiers in Computational Neuroscience, 2018 ([Article](https://www.frontiersin.org/articles/10.3389/fncom.2018.00056/full))
 
-_Rate fluctuations not steps dominate LIP activity during decision-making_<br>
-Xuelong Zhao, Konrad Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/05/04/249672.full.pdf))
+_Neurosurgical videos on YouTube_<br>
+Julio Leonardo Barbosa Pereira, Felipe Batalini, Pieter L Kubben, Lucas Alverne Freitas de Albuquerque, Bernardo Andrada, Pollyana Magalhães, Gervásio Teles C de Carvalho, Eberval Gadelha Figueiredo<br>
+Arquivos Brasileiros de Neurocirurgia: Brazilian Neurosurgery, 2016 ([Article](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0035-1564419))
 
-_Bioscience-scale automated detection of figure element reuse_<br>
-Daniel E. Acuna, Paul S. Brookes, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/biorxiv/early/2018/02/22/269415.1.full.pdf))
+_TREMOR12: an open-source mobile app for tremor quantification (vol 94, pg 182, 2016)_<br>
+PL Kubben, ML Kuijf, L Ackermans, AFG Leentjens, Y Temel<br>
+STEREOTACTIC AND FUNCTIONAL NEUROSURGERY, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:iH-uZ7U-co4C))
 
-_From preliminary to definitive plans: two classes of neurons in frontal eye field_<br>
-Joshua I. Glaser, Daniel K Wood, Patrick N Lawlor, Mark A. Segraves, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/02/07/251835))
 
-_Sampling Neuron Morphologies_<br>
-Roozbeh Farhoodi, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/15/248385)) ([Code](https://github.com/NeuronGenerator/MCMC))
+_Automatic speech recognition from neural signals: a focused review_<br>
+Christian Herff, Tanja Schultz<br>
+Frontiers in Neuroscience, 2016 ([Article](https://www.frontiersin.org/articles/10.3389/fnins.2016.00429/full))
 
-_Spiking allows neurons to estimate their causal effect_<br>
-Benjamin James Lansdell, Konrad P. Kording<br>
-bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/25/253351))
+_Speech-Based Detection of Alzheimer's Disease in Conversational German._<br>
+Jochen Weiner, Christian Herff, Tanja Schultz<br>
+Interspeech 2016, 2016 ([Article](https://www.csl.uni-bremen.de/cms/images/documents/publications/Interspeech2016_WeinerEtAl.pdf))
 
-<hr>
+_Programming for physicians: A free online course_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2016 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828953/))
 
-### 2017
+_TREMOR12: an open-source mobile app for tremor quantification_<br>
+Pieter L Kubben, Mark L Kuijf, Linda PCM Ackermans, Albert FG Leentjes, Yasin Temel<br>
+Stereotactic and functional neurosurgery, 2016 ([Article](https://www.karger.com/Article/PDF/446610))
 
-_The Roles of Machine Learning in Biomedical Science_<br>
-Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser<br>
-National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
+_ESSFN Mission_<br>
+Marc Sindou, George Georgoulis, Ning-Ning Dou, Jun Zhong, Lei Xia, Ming-Xing Liu, Hui Sun, Bin Li, Shi-Ting Li, Nikunj K Patel, Hugh P Sims-Williams, Shazia Javed, Anthony E Pickering, Ruben Geevarghese, Ruth O'Gorman Tuura, Daniel E Lumsden, Michael Samuel, Linda PCM Ackermans, Yasin Temel, Albert FG Leentjes, Pieter L Kubben, Mark L Kuijf, Byung-chul Son, Jin-gyu Choi, Sang-woo Ha, Young Min Shon, Jiyeon Kim, Sung-Hoon Kim, Si-hoon Lee, Takaomi Taira, Shiro Horisawa, Shinichi Goto, Nobuhiko Takeda, Yuki Takano, 
+Takakazu Kawamata, Cassandra Golden, Jeffrey D Voigt, Gene H Barnett, Manmeet S Alhuwalia, Keyoumars Ashkan, Douglas Kondziolka, Melissa LoPresti, Amy Tyburczy, Timmy Seto, 
+Lynda Boulio, Caitlyn Doody, Brian Yeh, Joshua Silverman, Steven Falowski, Yair Safriel, Michael P Ryan, Liesl Hargens, Satz Mengensatzproduktion, Werner Druck, AG Medien<br>
+Stereotactic and Functional Neurosurgery, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:ns9cj8rnVeAC))
 
-_A cryptography-based approach for movement decoding_<br>
-Eva L. Dyer, Mohammad Gheshlaghi Azar, Matthew G. Perich, Hugo L. Fernandes, Stephanie Naufel, Lee E. Miller, Konrad P. Körding<br> Nature Biomedical Engineering 1, 967–976, 2017 ([Article](https://www.nature.com/articles/s41551-017-0169-7#Ack1)) ([Code](http://kordinglab.com/DAD/))
+_ASSFN Society News_<br>
+Marc Sindou, George Georgoulis, Ning-Ning Dou, Jun Zhong, Lei Xia, Ming-Xing Liu, Hui Sun, Bin Li, Shi-Ting Li, Nikunj K Patel, Hugh P Sims-Williams, Shazia Javed, Anthony E Pickering, Ruben Geevarghese, Ruth O'Gorman Tuura, Daniel E Lumsden, Michael Samuel, Linda PCM Ackermans, Yasin Temel, Albert FG Leentjes, Pieter L Kubben, Mark L Kuijf, Byung-chul Son, Jin-gyu Choi, Sang-woo Ha, Young Min Shon, Jiyeon Kim, Sung-Hoon Kim, Si-hoon Lee, Takaomi Taira, Shiro Horisawa, Shinichi Goto, Nobuhiko Takeda, Yuki Takano, 
+Takakazu Kawamata, Cassandra Golden, Jeffrey D Voigt, Gene H Barnett, Manmeet S Alhuwalia, Keyoumars Ashkan, Douglas Kondziolka, Melissa LoPresti, Amy Tyburczy, Timmy Seto, 
+Lynda Boulio, Caitlyn Doody, Brian Yeh, Joshua Silverman, Steven Falowski, Yair Safriel, Michael P Ryan, Liesl Hargens, Satz Mengensatzproduktion, Werner Druck, AG Medien<br>
+Stereotactic and Functional Neurosurgery, 2016 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:O3NaXMp0MMsC))
 
-_Quantifying Mesoscale Neuroanatomy Using X-Ray Microtomography_<br>
-Eva L. Dyer, William Gray Roncal, Judy A. Prasad, Hugo L. Fernandes, Doga Gürsoy, Vincent De Andrade, Kamel Fezzaa, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding and Narayanan Kasthuri<br>
-eNeuro 25 September, 2017 ([Article](https://doi.org/10.1523/ENEURO.0195-17.2017)) ([Code](https://nerdslab.github.io/xbrain/))
+_Front & Back Matter_<br>
+Marc Sindou, George Georgoulis, Ning-Ning Dou, Jun Zhong, Lei Xia, Ming-Xing Liu, Hui Sun, Bin Li, Shi-Ting Li, Nikunj K Patel, Hugh P Sims-Williams, Shazia Javed, Anthony E Pickering, Ruben Geevarghese, Ruth O'Gorman Tuura, Daniel E Lumsden, Michael Samuel, Linda PCM Ackermans, Yasin Temel, Albert FG Leentjes, Pieter L Kubben, Mark L Kuijf, Byung-chul Son, Jin-gyu Choi, Sang-woo Ha, Young Min Shon, Jiyeon Kim, Sung-Hoon Kim, Si-hoon Lee, Takaomi Taira, Shiro Horisawa, Shinichi Goto, Nobuhiko Takeda, Yuki Takano, 
+Takakazu Kawamata, Cassandra Golden, Jeffrey D Voigt, Gene H Barnett, Manmeet S Alhuwalia, Keyoumars Ashkan, Douglas Kondziolka, Melissa LoPresti, Amy Tyburczy, Timmy Seto, 
+Lynda Boulio, Caitlyn Doody, Brian Yeh, Joshua Silverman, Steven Falowski, Yair Safriel, Michael P Ryan, Liesl Hargens, Satz Mengensatzproduktion, Werner Druck, AG Medien<br>
+Stereotactic and Functional Neurosurgery, 2016 ([Article](https://www.karger.com/Article/PDF/448910))
 
-_Machine learning for neural decoding_<br>
-Joshua I. Glaser, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
-arXiv, 2017 ([Article](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
 
-_How Does Mixed Reality Affect Quiet Stance?_<br>
-Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
-bioRxiv 2017 ([Article](https://www.biorxiv.org/content/early/2017/05/02/129239))
+_Is there still need for microelectrode recording now the subthalamic nucleus can be well visualized with high field and ultrahigh MR imaging?_<br>
+Ersoy Kocabicak, Onur Alptekin, Linda Ackermans, Pieter Kubben, Mark Kuijf, Erkan Kurt, Rianne Essselink, Yasin Temel<br>
+Frontiers in integrative neuroscience, 2015 ([Article](https://www.frontiersin.org/articles/10.3389/fnint.2015.00046/full))
 
-_Credit assignment between body and object probed by an object transportation task_<br>
-Gaiqing Kong, Zhihao Zhou, Qining Wang, Konrad Kording & Kunlin Wei<br>
-Scientific Reports, 2017 ([Article](https://www.nature.com/articles/s41598-017-13889-w))
+_Hybrid fNIRS-EEG based classification of auditory and visual perception processes_<br>
+Felix Putze, Sebastian Hesslinger, Chun-Yu Tse, YunYing Huang, Christian Herff, Cuntai Guan, Tanja Schultz<br>
+Using Neurophysiological Signals that Reflect Cognitive or Affective State, 2015 ([Article](https://www.frontiersin.org/articles/10.3389/fnins.2014.00373/full))
 
-_The integration of probabilistic information during sensorimotor estimation is unimpaired in children with Cerebral Palsy_<br>
-Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad P. Kording<br>
-PLoS ONE, 2017 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188741))
+_The start and development of epilepsy surgery in Europe: a historical review_<br>
+Olaf EMG Schijns, Govert Hoogland, Pieter L Kubben, Peter J Koehler<br>
+Neurosurgical review, 2015 ([Article](https://link.springer.com/article/10.1007/s10143-015-0641-3))
 
-<hr>
 
-### 2016
 
-_Ten simple rules for structuring papers_<br>
-Konrad P Kording, Brett Mensh<br>
-bioRxiv 2016 ([Article](http://biorxiv.org/content/early/2016/11/28/088278))
+_A detailed analysis of intracerebral hemorrhages in DBS surgeries_<br>
+Mehmet Tonge, Linda Ackermans, Ersoy Kocabicak, Vivianne van Kranen-Mastenbroek, Mark Kuijf, Mayke Oosterloo, Pieter Kubben, Yasin Temel<br>
+Clinical neurology and neurosurgery, 2015 ([Article](https://www.researchgate.net/profile/Vivianne-Van-Kranen-Mastenbroek/publication/283282101_A_detailed_analysis_of_intracerebral_hemorrhages_in_DBS_surgeries/links/5a25342da6fdcc8e86693785/A-detailed-analysis-of-intracerebral-hemorrhages-in-DBS-surgeries.pdf))
 
-_Science Concierge: A Fast Content-Based Recommendation System for Scientific Publications_<br>
-Titipat Achakulvisut, Daniel E. Acuna, Tulakan Ruangrong, Konrad Kording<br>
-PLoS ONE, 2016 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158423), [Github](https://github.com/titipata/science_concierge))
+_Programming for physicians: A crash course._<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2015 ([Article](https://europepmc.org/articles/4314833))
 
-_A cryptography-based approach for movement decoding_<br>
-Eva L Dyer, Mohammad G Azar, Hugo L Fernandes, Matthew Perich, Stephanie Naufel, Lee Miller, Konrad Körding<br>
-bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/10/14/080861))
+_E-learning for neurosurgeons: Getting the most from the new web tools_<br>
+Julio Leonardo Barbosa Pereira, Pieter Leonard Kubben, Lucas Alverne Freitas de Albuquerque, Felipe Batalini, Gervásio Teles Cardoso de Carvalho, Atos Alves de Sousa<br>    
+Asian journal of neurosurgery, 2015 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352633/))
 
-_Could a neuroscientist understand a microprocessor?_<br>
-Eric Jonas, Konrad Kording<br>
-bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/05/26/055624))
+_Toward a wireless open source instrument: functional near-infrared spectroscopy in mobile neuroergonomics and BCI applications_<br>
+Alexander Von Lühmann, Christian Herff, Dominic Heger, Tanja Schultz<br>
+Frontiers in Human Neuroscience, 2015 ([Article](https://www.frontiersin.org/articles/10.3389/fnhum.2015.00617/full))
 
-_Uncertainty leads to persistent representations of alternative movements in PMd_ <br>
-Brian M. Dekleva, Pavan Ramkumar, Paul A. Wanda, Konrad P. Körding, Lee E. Miller <br>
-eLife, In Press.
+_Brain-to-text: decoding spoken phrases from phone representations in the brain_<br>
+Christian Herff, Dominic Heger, Adriana De Pesters, Dominic Telaar, Peter Brunner, Gerwin Schalk, Tanja Schultz<br>
+Frontiers in Neuroscience, 2015 ([Article](https://internal-journal.frontiersin.org/articles/10.3389/fnins.2015.00217/full))
 
-_Feature-based attention and spatial selection in frontal eye fields during natural scene search_ <br>
-Pavan Ramkumar\*, Pat N. Lawlor\*, Joshua I. Glaser, Daniel K. Wood, Mark A. Segraves, Konrad P. Körding <br>
-Journal of Neurophysiology, In Press.
 
-_The role of expected reward in frontal eye field during natural scene search_ <br>
-Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves <br>
-Journal of Neurophysiology, In Press.
 
-_Chunking as the result of an efficiency–computation tradeoff_ <br>
-Pavan Ramkumar, Daniel E. Acuna, Max Berniker, Scott T. Grafton, Robert S. Turner, Konrad P. Körding <br>
-Nature Communications, In Press
+_Continuous affective states recognition using functional near infrared spectroscopy_<br>
+Dominic Heger, Christian Herff, Felix Putze, Reinhard Mutter, Tanja Schultz<br>
+Brain-Computer Interfaces, 2014 ([Article](https://csl.uni-bremen.de/cms/images/documents/publications/BCI_Heger2014.pdf))
 
-_Adaptive Neuron-to-Muscle Decoder Training for FES Neuroprostheses_ <br>
-C Ethier, DE Acuna, S Solla, L Miller <br>
-Journal of Neural Engineering, In Press
 
-_Quantifying mesoscale neuroanatomy using X-ray microtomography_<br>
-Eva L Dyer, William Gray Roncal, Hugo L. Fernandes, Doga Gürsoy, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding, Narayanan Kasthuri <br>
-arXiv ([Article](http://arxiv.org/abs/1604.03629), [Web](http://docs.neurodata.io/xbrain))
+_Mental workload during n-back task—quantified in the prefrontal cortex using fNIRS_<br>
+Christian Herff, Dominic Heger, Ole Fortmann, Johannes Hennrich, Felix Putze, Tanja Schultz<br>
+Frontiers in Human Neuroscience, 2014 ([Article](https://internal-journal.frontiersin.org/articles/10.3389/fnhum.2013.00935/full))
 
-_Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes_<br>
-Mohammad Gheshlaghi Azar, Eva L Dyer, Konrad P Körding <br>
-Proc. of the Conference on Uncertainty in Artificial Intelligence (UAI) Proceedings, June 2016
-([Article](http://arxiv.org/abs/1602.02191))
 
-_The Development and Analysis of Integrated Neuroscience Data_<br>
-Joshua I Glaser and Konrad P Körding <br>
-Frontiers in Computational Neuroscience | Perspective Article ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full?field=&journalName=Frontiers_in_Computational_Neuroscience&id=171004&utm_content=buffer21f1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer))
+_Intraoperative magnetic resonance imaging versus standard neuronavigation for the neurosurgical treatment of glioblastoma: a randomized controlled trial_<br>
+Pieter L Kubben, Felix Scholtes, Olaf EMG Schijns, Mariël P ter Laak-Poort, Onno PM Teernstra, Alfons GH Kessels, Jacobus J van Overbeeke, Didier H Martin, Henk Van Santbrink<br>
+Surgical neurology international, 2014 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4078446/))
 
-<hr>
+_Intraoperative MRI versus standard neuron-avigation for the neurosurgical treatment of glioblastoma: a randomized controlled trial._<br>
+PL Kubben, Félix Scholtes, OEMG Schijns, Ter Laak-Poort, OPM Teernstra, AGH Kessels, JJ Van Overbeeke, Didier MARTIN, H Van Santbrink<br>
+Surgical Neurology, 2014 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:ZeXyd9-uunAC))
 
-### 2015
 
-_Neural coordination during reach-to-grasp_<br>
-M Vaidya, K Körding, M Saleh, K Takahashi, NG Hatsopoulos <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/early/2015/07/27/jn.00349.2015))
 
-_Mobile phone sensor correlates of depressive symptom severity in daily-life behavior: an exploratory study_<br>
-S Saeb, M Zhang, CJ Karr, SM Schueller, ME Corden, KP Körding, DC Mohr <br>
-Journal of Medical Internet Research ([Article](http://www.jmir.org/2015/7/e175/))
 
-_Similar trial-by-trial adaptation behavior across transhumeral amputees and able-bodied subjects_<br>
-RE Johnson, KP Körding, LJ Hargrove, JW Sensinger <br>
-IEEE/EMBS Conference on Neural Engineering (NER) ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7146737&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F7131936%2F7146535%2F07146737.pdf%3Farnumber%3D7146737))
+_The Use of Smartphones and Mobile Clinical Decision Support Systems in Clinical Clerkships._<br>
+AMR Schols, HHLM Donkers, Manuela Voorend, DML Verstegen, Henk Hoogland, Pieter Leonard Kubben<br>
+International Journal of Interactive Mobile Technologies, 2013 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:roLk4NBRz8UC))
 
-_The relationship between clinical, momentary, and sensor-based assessment of depression_<br>
-S Saeb, M Zhang, M Kwasny, CJ Karr, K Körding, DC Mohr <br>
-Conference on Pervasive Computing Technologies for Healthcare ([Abstract](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7349404&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7349404))
 
-_Self-Expressive Decompositions for Matrix Approximation and Clustering_<br>
-EL Dyer, TA Goldstein, R Patel, KP Körding, RG Baraniuk <br>
-arXiv preprint ([Abstract](http://arxiv.org/abs/1505.00824), [PDF](http://arxiv.org/pdf/1505.00824v1.pdf))
+_BORDERZONE SAMPLING STUDY_<br>
+PL Kubben<br>
+Ultra low-field strength intraoperative MRI: for glioblastoma surgery, 2013 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:M3ejUd6NZC8C))
 
-_Automatic discovery of cell types and microcircuitry from neural connectomics_<br>
-Eric Jonas, Konrad Körding<br>
-eLIFE ([Article](http://lens.elifesciences.org/04250/index.html), [PDF](http://cdn.elifesciences.org/elife-articles/04250/pdf/elife04250.pdf))
+_RANDOMIZED TRIAL_<br>
+PL Kubben, F Scholtes, OEMG Schijns, AGH Kessels, JJ Van Overbeeke, D Martin<br>
+Ultra low-field strength intraoperative MRI: for glioblastoma surgery, 2013 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:UebtZRa9Y70C))
 
-_Making activity recognition robust against deceptive behavior_<br>
-Sohrab Saeb, Konrad P Kording, David C Mohr<br>
-PLOS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144795))
+_Intraoperative magnetic resonance imaging for high grade glioma resection: Evidence-based or wishful thinking_<br>
+Pieter L Kubben, Henk Van Santbrink<br>
+Surg Neurol Int, 2013 ([Article](https://cyberleninka.org/article/n/1053140.pdf))
 
-_Puzzle Imaging: Using Large-scale Dimensionality Reduction Algorithms for Localization_<br>
-Joshua I Glaser, Bradley M Zamft, George M Church, Konrad P Körding<br>
-PLOS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131593), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0131593&representation=PDF))
+_Self-paced BCI with NIRS based on speech activity_<br>
+C Herff, D Heger, F Putze, C Guan, T Schultz<br>
+International BCI Meeting, 2013 ([Article](https://www.csl.uni-bremen.de/cms/images/documents/publications/HerffSchultz_BCIMEETING2013.pdf))
 
-_Carrot or stick in motor learning_<br>
-Sternad D, Körding KP<br>
-Nature Neuroscience | News and Views ([Abstract](http://www.nature.com/neuro/journal/v18/n4/full/nn.3978.html))
+_Towards biometric person identification using fnirs_<br>
+D Heger, C Herff, F Putze, T Schultz<br>
+Proceedings of the Fifth International Brain-Computer Interface Meeting: Defining the Future, 2013 ([Article](https://csl.uni-bremen.de/cms/images/documents/publications/heger_towards_biometric_BCI-meeting_2013_USletter.pdf))
 
-_Modeling peripheral visual acuity enables discovery of gaze strategies at multiple time scales during natural scene search_<br>
-Ramkumar P, Fernandes H, Körding K, Segraves M <br>
-Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/19.abstract))
+_Windows 8: A promise for tablet computers in the hospital?_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2013 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:4TOpqqG69KYC))
 
-_Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception_<br>
-Kilteni K, Maselli A, Körding KP, Slater M<br>
-Frontiers in Human Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fnhum.2015.00141/full))
+_Why physicians might want to learn computer programming_<br>
+Pieter Kubben<br>
+Surgical neurology international, 2013 ([Article](https://pdfs.semanticscholar.org/02f5/34e1475d3df90a9b00505c0637aeaf5dfbb2.pdf))
 
-_Deep networks for motor control functions_<br>
-Berniker M, Körding KP<br>
-Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2015.00032/full))
+_P. 298 MOBILE CLINICAL DECISION SUPPORT SYSTEMS FOR IMPLEMENTATION OF NEUROONCOLOGICAL GUIDELINES_<br>
+P Kubben<br>
+Neuro-oncology, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:mVmsd5A6BfQC))
 
-_Using psychophysics to ask if the brain samples or maximizes_<br>
-Acuna DE\*, Berniker M\*, Fernandes HL\*, Körding KP (\*authors contributed equally) <br>
-Journal of Vision ([Article](http://www.journalofvision.org/content/15/3/7.abstract), [F1000 recommendation](http://f1000.com/prime/725389756?key=KfDGGy3MWelYpcg))
 
-_Predicting cognitive function from clinical measures of physical function and health status in older adults_<br>
-Bolandzadeh N, Körding K, Salowitz N, Davis JC, Hsu L, Chan A, Sharma D, Blohm G, Liu-Ambrose T<br>
-PLoS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0119075), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0119075&representation=PDF))
 
-_High-Reproducibility and High-Accuracy Method for Automated Topic Classification_<br>
-Lancichinetti A, Sirer MI, Wang JX, Acuna D, Körding K, Amaral LAN<br>
-PHYSICAL REVIEW X ([Abstract](http://journals.aps.org/prx/abstract/10.1103/PhysRevX.5.011007), [PDF](http://journals.aps.org/prx/pdf/10.1103/PhysRevX.5.011007))
+_Implementation of a mobile 0.15-T intraoperative MR system in pediatric neuro-oncological surgery: feasibility and correlation with early postoperative high-field strength 
+MRI_<br>
+PL Kubben, H Van Santbrink, M ter Laak-Poort, JW Weber, JSH Vles, B Granzen, JJ van Overbeeke, EMJ Cornips<br>
+Child's Nervous System, 2012 ([Article](https://link.springer.com/content/pdf/10.1007/s00381-012-1815-8.pdf))
 
-_Spatial Information in Large-Scale Neural Recordings_<br>
-Thaddeus R Cybulski\*, Joshua I Glaser\*, Adam H Marblestone, Bradley M Zamft, Edward S Boyden, George M Church, Konrad P Körding<br>
-Frontiers in Computational Neuroscience ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2014.00172/full), [PDF](http://www.readcube.com/articles/10.3389/fncom.2014.00172))
+_MDE support for process-oriented health information systems: from theory to practice_<br>
+Pieter Van Gorp, Irene Vanderfeesten, Willem Dalinghaus, Josh Mengerink, Bram van der Sanden, Pieter Kubben<br>
+Pre-proceedings of FHIES 2012, 2012 ([Article](https://is.ieis.tue.nl/staff/pvgorp/research/VanGorpEtAl2012FHIESpreproceedings.pdf))
 
+_Letter to the editor: Glioblastoma resection_<br>
+Pieter Kubben, Henk van Santbrink<br>
+Journal of neurosurgery, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:qjMakFHDy7sC))
 
-<hr>
+_SLIC 2: Improved decision support for subaxial cervical spine injury_<br>
+Pieter L Kubben<br>
+Surg Neurol Int, 2012 ([Article](https://cyberleninka.org/article/n/1173051.pdf))
 
-### 2014
 
-_Conceptualizing Cancer Drugs as Classifiers_<br>
-Patrick Lawlor, Tomer Kalisky, Robert Rosner, Marsha Rich Rosner, Konrad Paul Kording<br>
-PLOS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106444), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/8f/Journal.pone.0106444.pdf))
+_Blogs for neurosurgeons_<br>
+Pieter Kubben, Lucas Freitas De Albuquerque, Atos De Sousa<br>
+Surgical Neurology International, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:r0BpntZqJG4C))
 
-_Saliency and saccade encoding in the frontal eye field during natural scene search_<br>
-Fernandes HL, Stevenson IH, Phillips AN, Segraves MA, Kording KP<br>
-Cerebral Cortex ([Abstract](http://cercor.oxfordjournals.org/content/early/2013/07/16/cercor.bht179.short?rss=1), [PDF](http://cercor.oxfordjournals.org/content/24/12/3232.full.pdf), [Supp](http://klab.smpp.northwestern.edu/wiki/images/7/76/Bht179supp_Fernandes_CC.pdf))
+_Blogs for neurosurgeons_<br>
+Júlio Leonardo Barbosa Pereira, Pieter L Kubben, Lucas Alverne Freitas de Albuquerque, Gervásio Teles C de Carvalho, Atos Alves de Sousa<br>
+Surgical neurology international, 2012 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385064/))
 
-_Serotonin Affects Movement Gain Control in the Spinal Cord_<br>
-Kunlin Wei, Joshua I. Glaser, Linna Deng, Christopher K. Thompson, Ian H. Stevenson, Qining Wang, Thomas George Hornby, Charles J. Heckman, Konrad P. Kording<br>
-Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/38/12690.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/81/Serotonin_gain_control.pdf))
+_Neurosurgery case review_<br>
+Pieter Kubben<br>
+Surgical Neurology International, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Se3iqnhoufwC))
 
-_The generalization of prior uncertainty during reaching_<br>
-Fernandes HL, Stevenson IH, Vilares I, Kording KP<br>
-Journal of Neuroscience ([Abstract](http://www.jneurosci.org/content/34/34/11470.short), [PDF](http://klab.smpp.northwestern.edu/wiki/images/e/ee/The_generalization_of_prior_uncertainty_during_learning.pdf), [Review paper](http://www.jneurosci.org/content/35/2/439.short))
+_Brain mapping: from neural basis of cognition to surgical applications_<br>
+Pieter L Kubben<br>
+Surgical Neurology International, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:MXK_kJrjxJIC))
 
-_Multi-faceted aspects of chunking enable robust algorithms_<br>
-DE Acuna, NF Wymbs, CA Reynolds, N Picard, RS Turner, PL Strick, ST Grafton, and K Kording<br>
-Journal of neurophysiology ([Abstract](http://classic.jn.physiology.org/content/early/2014/07/23/jn.00028.2014.abstract))
 
-_Bayesian statistics: relevant for the brain?_<br>
-Kording, KP<br>
-Current opinion in neurobiology ([Abstract](http://www.sciencedirect.com/science/article/pii/S0959438814000117))
+_The Neurosurgeon's Handbook_<br>
+Pieter L Kubben<br>
+Surgical Neurology International, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:qxL8FJ1GzNcC))
 
-_Rosetta Brains: A Strategy for Molecularly-Annotated Connectomics_<br>
-Marblestone AH, Daugharthy ER, Kalhor R, Peikon ID, Kebschull JM, Shipman SL, Mishchenko Y, Lee J, Kording KP, Boyden ES, Zador AM & Church GM<br>
-arXiv ([Abstract](http://arxiv.org/abs/1404.5103), [PDF](http://arxiv.org/pdf/1404.5103v1.pdf))
+_Correlation between contrast enhancement on intraoperative magnetic resonance imaging and histopathology in glioblastoma_<br>
+Pieter L Kubben, Pieter Wesseling, Martin Lammens, Olaf EMG Schijns, Mariël P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink<br>
+Surgical neurology international, 2012 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551502/))
 
-_Dealing with Target Uncertainty in a Reaching Control Interface_<br>
-Corbett, E. A., Körding, K. P., & Perreault, E. J.<br>
-PLOS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086811), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0086811&representation=PDF))
+_An open-source and cross-platform framework for Brain Computer Interface-guided robotic arm control_<br>
+Pieter L Kubben, Nader Pouratian<br>
+Surgical neurology international, 2012 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551496/))
 
-_Computer Use Changes Generalization of Movement Learning_<br>
-Wei, K., Yan, X., Kong, G., Yin, C., Zhang, F., Wang, Q., & Kording, K. P.<br>
-Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(13)01398-5))
 
-_Multimodal decoding and congruent sensory information enhance reaching performance in subjects with cervical spinal cord injury_<br>
-EA Corbett, NA Sachs, KP Körding, EJ Perreault<br>
-Frontiers in Neuroscience ([Abstract](http://journal.frontiersin.org/article/10.3389/fnins.2014.00123/abstract), [PDF](http://www.readcube.com/articles/10.3389/fnins.2014.00123))
+_NeuroMind 2: Interactive decision support for neurosurgery_<br>
+Pieter Kubben<br>
+Surgical neurology international, 2012 ([Article](https://pdfs.semanticscholar.org/e022/d11b95a862706685c8a141d8ceea54f9ce19.pdf))
 
-<hr>
+_Correlation between contrast enhancement on intraoperative magnetic resonance imaging and histopathology in glioblastoma_<br>
+Pieter L Kubben, Pieter Wesseling, Martin Lammens, Olaf EMG Schijns, Mariël P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink<br>
+Surgical neurology international, 2012 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551502/))
 
-### 2013
+_Online conferencing: Less CO 2, more effective?_<br>
+Pieter Kubben<br>
+Surgical neurology international, 2012 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:YOwf2qJgpHMC))
 
-_Motor learning of novel dynamics is not represented in a single global coordinate system: evaluation of mixed coordinate representations and local learning_<br>
-Max Berniker, David W Franklin, J. Randall Flanagan, Daniel M. Wolpert, & Konrad Kording<br>
-Journal of Neurophysiology ([PrePrint](http://jn.physiology.org/content/early/2013/12/13/jn.00493.2013.abstract))
+_Intraoperative MRI-guided resection of glioblastoma multiforme: a systematic review_<br>
+Pieter L Kubben, Karlien J ter Meulen, Olaf EMG Schijns, Mariel P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink<br>
+The lancet oncology, 2011 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u5HHmVD_uO8C))
 
-_The Database for Reaching Experiments and Models_<br>
-Ben Walker, Konrad Kording
-PLOS One 8(11): e78747. doi:10.1371/journal.pone.0078747 ([Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078747), [Database](http://crcns.org/data-sets/movements/dream))
 
-_Hand, belt, pocket or bag: Practical activity tracking with mobile phones_<br>
-Stephen A. Antos, Mark V. Albert, Konrad P. Kording<br>
-Journal of Neuroscience Methods ([PDF](http://klab.smpp.northwestern.edu/wiki/images/6/69/Antos_%282013%29_Hand_belt_pocket_or_bag.pdf))
+_An evidence-based mobile decision support system for subaxial cervical spine injury treatment_<br>
+PL Kubben, H Van Santbrink, EMJ Cornips, Alex R Vaccaro, MF Dvorak, LW Van Rhijn, AJJA Scherpbier, H Hoogland<br>
+Surgical neurology international, 2011 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3086168/))
 
-_Statistical Analysis of Molecular Signal Recording_<br>
-Joshua I. Glaser, Bradley M. Zamft, Adam H. Marblestone, Jeffrey R. Moffitt, Keith Tyo, Edward S. Boyden, George Church, Konrad P. Kording
-PLoS Comput Biol 9(7): e1003145. doi:10.1371/journal.pcbi.1003145 ([Abstract](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145#abstract0), [PDF](http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003145&representation=PDF))
+_QR codes in neurosurgery_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2011 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3157090/))
 
-_Monitoring Functional Capability of Individuals with Lower Limb Amputations Using Mobile Phones_<br>
-Albert MV, McCarthy C, Valentin J, Herrmann M, Kording K, Jayaraman J (2013)
-PLoS ONE 8(6): e65340. doi:10.1371/journal.pone.0065340<br> [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065340)
+_Twitter for neurosurgeons_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2011 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3062806/))
 
-_Wii Fit Balance Board Playing Improves Balance and Gait in Parkinson Disease_<br>
-Priya V Mhatre, Iris Vilares, Stacy M Stibb, Mark V Albert, PT Laura Pickering, Christina M Marciniak, Konrad Kording, Santiago Toledo
-PM&R [article](http://klab.smpp.northwestern.edu/wiki/images/a/ae/1-s2.0-S1934148213003109-main_PMNR.pdf)
+_Meulen Ter KJ, Schijns OE, Laak‑Poort Ter MP, van Overbeeke JJ, Santbrink HV. Intraoperative MRI‑guided resection of glioblastoma multiforme: A systematic review_<br>      
+PL Kubben<br>
+Lancet Oncol, 2011 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:fPk4N6BV_jEC))
 
-_Physical Principles for Scalable Neural Recording_<br>
-Adam H. Marblestone, Bradley M. Zamft, Yael G. Maguire, Mikhail G. Shapiro, Thaddeus R. Cybulski, Joshua I. Glaser, P. Benjamin Stranges, Reza Kalhor, David A. Dalrymple, Dongjin Seo, Elad Alon, Michel M. Maharbiz, Jose M. Carmena, Jan M. Rabaey, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
-Frontiers in Computational Neuroscience. 7:137. doi: 10.3389/fncom.2013.00137 [paper](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract)
+_CONTRAST ENHANCEMENT ON INTRAOPERATIVE MRI: IS IT TUMOR?: P. 068._<br>
+P Kubben, H van Santbrink, M Lammens, M ter Laak-Poort, OEMG Schijns<br>
+Neuro-oncology, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:QIV2ME_5wuYC))
 
-_Generalization of unconstrained reaching with hand weight changes_<br>
-Yan, X., Wang, Q., Lu, Z., Stevenson, IH., Kording, K. & Wei K.\*<br>
-Journal of Neurophysiology 109(1): 137-146. [pdf](http://klab.smpp.northwestern.edu/wiki/images/f/fb/J_Neurophysiol-2013-Yan-137-46_generalize.pdf)
+_Transsphenoidal treatment of secondary empty sella syndrome using low field strength intraoperative MRI: case report_<br>
+PL Kubben, EMJ Cornips, B-J Looij, EAM Beuls<br>
+min-Minimally Invasive Neurosurgery, 2010 ([Article](https://www.academia.edu/download/46045627/Transsphenoidal_Treatment_of_Secondary_E20160529-29428-17mt2mw.pdf))
 
-_An examination of the generalizability of motor costs_<br>
-M. Berniker, M. O'Brien, K. Kording & A. Ahmed<br>
-PLoS ONE 8(1), January, 2013 ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053759#abstract0), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0053759&representation=PDF)).
+_Neurosurgery 2.0-a Combination Of Open Access, Web 2.0 And Decision Technology_<br>
+Pieter Leonard Kubben<br>
+Medicine 2.0 Conference, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:maZDTaKrznsC))
 
-_Credit Assignment during Movement Reinforcement Learning_<br>
-G Dam, KP Kording, K Wei<br>
-PLOS ONE 8(2): e55352. doi:10.1371/journal.pone.0055352 ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352), [PDF](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352))
+_Intraobserver and interobserver agreement in volumetric assessment of glioblastoma multiforme resection_<br>
+Pieter L Kubben, Alida A Postma, Alfons GH Kessels, Jacobus J van Overbeeke, Henk van Santbrink<br>
+Neurosurgery, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:d1gkVwhDpl0C))
 
-<hr>
+_The KIT translation system for IWSLT 2010._<br>
+Jan Niehues, Mohammed Mediani, Teresa Herrmann, Michael Heck, Christian Herff, Alex Waibel<br>
+Proceedings of the seventh International Workshop on Spoken Language Translation (IWSLT), 2010 ([Article](https://isl.anthropomatik.kit.edu/downloads/niehues2010kit.pdf))   
 
-### 2012
+_A free forum for neurosurgery and neuroscience_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2940092/))
 
-_Saccadic gain adaptation is predicted by the statistics of natural fluctuations in oculomotor function_<br>
-Albert MV, Catz N, Thier P, and Kording KP <br>
-Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2012.00096/abstract))
+_Neurosurgical apps for iPhone, iPod Touch, iPad and Android_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u-x6o8ySG0sC))
 
+_What every neurosurgeon should know about the Web 2.0_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2941089/))
 
-_Using mobile phones for activity recognition in Parkinson's patients_<br>
-Albert MV, Toledo S, Shapiro M, and Kording KP <br>
-Frontiers in Neurology ([Abstract](http://www.frontiersin.org/movement_disorders/10.3389/fneur.2012.00158/abstract))
+_Comprehensive neurosurgery board review_<br>
+Pieter L Kubben<br>
+Surgical Neurology International, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:hqOjcs7Dif8C))
 
+_Introducing Neurosurgery 2.0_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908359/))
 
-_Functional Connectivity and Tuning Curves in Populations of Simultaneously Recorded Neurons_<br>
-Stevenson IH, London BM, Oby ER, Sachs NA, Reimer J, et al. <br>
-PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002775))
+_Neurosurgical content for mobile devices_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2958314/))
 
+_The cerefy® Atlas of cerebral vasculature_<br>
+Pieter L Kubben<br>
+Surgical Neurology International, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:9ZlFYXVOiuMC))
 
-_Motion games improve balance control in stroke survivors: a preliminary study based on the principle of constraint-induced movement therapy_<br>
-Q Ding, IH Stevenson, N Wang, W Li, Y Sun, Q Wang, K Kording, K Wei <br>
-Displays, ([PDF](http://klab.smpp.northwestern.edu/wiki/images/7/79/Motion_Games_Kunlin.pdf))
+_Neurosurgical videos going mobile_<br>
+Pieter L Kubben<br>
+Surgical neurology international, 2010 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Zph67rFs4hoC))
 
+_Preliminary experience with PoleStar N20 iMRI in pediatric neuro-oncology_<br>
+E Cornips, P Kubben, B Granzen, B Weber<br>
+Surgical Neurology, 2009 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:ULOm3_A8WrAC))
 
-_Generalization of unconstrained reaching with hand weight changes_<br>
-Yan X, Wang Q, Lu Z, Stevenson IH, Kording KP, Wei K <br>
-J. Neurophys, ([PDF](http://jn.physiology.org/content/early/2012/10/05/jn.00498.2012.full.pdf))
+_A Collaborative Webbased Framework with Optimized Mobile Synchronisation: Upgrading to Medicine 2.0._<br>
+Pieter Leonard Kubben<br>
+International Journal of Interactive Mobile Technologies, 2008 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Wp0gIr-vW9MC))
 
+_Intraoperatieve MRI bij hersenchirurgie_<br>
+PL Kubben, H Van Santbrink, GHJJ Spincemaille, WP Vandertop<br>
+Nederlands Tijdschrift voor Geneeskunde, 2007 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u_35RYKgDlwC))
 
-_Advanced User Interfaces for Upper Limb FES_<br>
-Corbett E, Ethier C, Oby ER, Kording K, Perreault E J, Miller LE <br>
-Book chapter in "Introduction to neural engineering for motor rehabilitation"
-eds. Farina, D,  Jensen, W,  Akay, M., in press ([PDF](http://onlinelibrary.wiley.com/doi/10.1002/9781118628522.ch19/summary))
+_Intraoperative MRI in brain surgery_<br>
+PL van Kubben, H van Santbrink, GH Spincemaille, WP Vandertop<br>
+Nederlands tijdschrift voor geneeskunde, 2007 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:IjCSPb-OGe4C))
 
+_Intraoperative MRI in brain surgery_<br>
+PL van Kubben, H van Santbrink, GH Spincemaille, WP Vandertop<br>
+Nederlands tijdschrift voor geneeskunde, 2007 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:W7OEmFMy1HYC))
 
-_What silly postures tell us about the brain_<br>
-Sober SJ and Koerding KP <br>
-Frontiers in Neuroscience ([Article](http://www.frontiersin.org/Neuroscience/10.3389/fnins.2012.00154/full paper))
-
-
-_Future impact: Predicting scientific success_<br>
-D. E. Acuna, S. Allesina, K. P. Kording <br>
-Nature ([Nature website](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), [PDF](http://www.nature.com/nature/journal/v489/n7415/pdf/489201a.pdf), [Online h-index calculator](http://klab.smpp.northwestern.edu/h-index.html Online h-index calculator))
-
-
-_Temporal Integration of Olfactory Perceptual Evidence in Human Orbitofrontal Cortex_<br>
-Nicholas E. Bowman, Konrad P. Kording, Jay A. Gottfried <br>
-Neuron, Volume 75, Issue 5, 916-927 ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/pdf/nihms395813.pdf))
-
-
-_Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing_<br>
-Zamft B, Marblestone A, Kording K, Schmidt D, Martin-Alarcon D, TyoK, Boyden E, Church GM <br>
-PLoS ONE ([PDF](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0043876), [Supplementary data](http://goo.gl/As7XU))
-
-
-_Generalization of stochastic visuomotor rotations_<br>
-Fernandes HL, Stevenson IH, Kording KP <br>
-PLoS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043016), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0043016&representation=PDF))
-
-
-_Differential Representations of Prior and Likelihood Uncertainty in the Human Brain_<br>
-Vilares I, Howard JD, Fernandes HL, Gottfried JA, Kording KP <br>
-Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(12)00801-9), [PDF](http://ac.els-cdn.com/S0960982212008019/1-s2.0-S0960982212008019-main.pdf?_tid=f7636e20-d0f9-11e5-8a50-00000aab0f6c&acdnat=1455220952_61d8cb51d451e942c94641e7ffc9665d))
-
-
-_Fall classification by machine learning using mobile phones_<br>
-Albert MV, Kording KP, Herrmann M, Jayaraman A <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0036556), PDF)
-
-
-_Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test_<br>
-Avraham G, Nisky I, Fernandes HL, Acuna DE, Kording KP, Loeb GE, Karniel A <br>
-IEEE Transactions on Haptics ([Abstract](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6185551))
-
-
-_Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
-Corbett EA, Perreault EJ and Kording KP <br>
-Journal of Neural Engineering, ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/22488128), [PDF](http://www.smpp.northwestern.edu/research/neuromuscular/pubs/2012%20J%20Neural%20Eng%20-%20Decoding%20limited%20neural%20data.pdf))
-
-<hr>
-
-### 2011
-
-_Of toasters and molecular ticker tapes_,<br>
-Konrad Kording<br>
-PLoS Computational Biology 7(12): e1002291. doi:10.1371/journal.pcbi.1002291 ([PDF](http://klab.smpp.northwestern.edu/wiki/images/7/7d/Kording_Toaster_Molecular_Ticket_Tapes_2011.pdf))
-
-_Inferring spike-timing-dependent plasticity from spike train data_,<br>
-Stevenson IH and Kording KP<br>
-Advances in Neural Information Processing Systems 24, ([PDF](http://klab.smpp.northwestern.edu/wiki/images/2/2b/Stevenson_Inferring_Plasticity_2011.pdf)).
-
-_Estimating the Relevance of World Disturbances to Explain Savings, Interference and Long-Term Motor Adaptation Effects_<br>
-Berniker M and Kording KP<br>
-PLoS Computational Biology 7(10): e1002210. ([PDF](http://klab.smpp.northwestern.edu/wiki/images/1/11/Estimate_Disturbances_explainSavings_adaptation_Berniker_2011.pdf))
-
-_Bayesian approaches to modeling action selection_<br>
-Berniker, M, Wei, K and Kording, KP<br>
-CUP book: Modeling natural action selection, Anil Seth, editor ([PDF](http://klab.smpp.northwestern.edu/wiki/images/b/bd/CUPProofs.pdf))
-
-_Sensory Cue Integration_<br>
-Trommershauser, J, Kording, K and Landy, M, (eds)<br>
-Oxford University Press [Book Info](http://ukcatalogue.oup.com/product/9780195387247.do)
-
-_Causal inference in sensorimotor learning and control_<br>
-Wei, K. and Kording, K.<br>
-Sensory Cue Integration eds: Trommershauser, J., Kording, K., and Landy, M.S.<br>
-Oxford University Press [Book info](http://klab.smpp.northwestern.edu/wiki/images/8/85/2011_Bayes_approach_sense_integrate_motor.pdf)
-
-_Bayesian Approaches to Sensory Integration for Motor Control_<br>
-Berniker, M. and Kording, KP
-Chapter, WIREs Cognitive Science ([PDF](http://klab.smpp.northwestern.edu/wiki/images/8/85/2011_Bayes_approach_sense_integrate_motor.pdf))
-
-_Statistical assessment of the stability of neural movement representations_<br>
-Stevenson IH, Cherian A, London BM, Sachs N, Lindberg E, Reimer J, Slutzky MW, Hatsopoulos NG, Miller LE, and Kording KP.<br>
-Journal of Neurophysiology 106: 764-774. ([Abstract](http://jn.physiology.org/content/106/2/764), [PDF](http://klab.smpp.northwestern.edu/wiki/images/f/fb/JNeurophysiol-2011-Stevenson-Neural_represent.pdf))
-
-_Measuring generalization of visuomotor perturbations in wrist movements using mobile phones_<br>
-Fernandes HL\*, Albert MV\*, Kording KP. (\*authors contributed equally)<br>
-PLoS ONE 6(5): e20290. ([Article](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0020290),  [PDF](http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0020290&representation=PDF))
-
-_Mixture of time-warped trajectory models for movement decoding_<br>
-Corbett, E, Perreault, E and Kording, KP<br>
-Advances in Neural Information Processing Systems 22 ([Abstract](http://papers.nips.cc/paper/3989-mixture-of-time-warped-trajectory-models-for-movement-decoding), [PDF](http://papers.nips.cc/paper/3989-mixture-of-time-warped-trajectory-models-for-movement-decoding.pdf))
-
-_Bayesian models: the structure of the world, uncertainty, behavior, and the brain_<br>
-Vilares I and Körding KP.<br>
-Annals of the New York Academy of Sciences, 1224: 22–39. ([Abstract](http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2011.05965.x/abstract), [PDF](http://klab.smpp.northwestern.edu/wiki/images/1/1c/Bayesian_models_the_structure_of_the_world%2C_uncertainty%2C_behavior_and_the_brain.pdf))
-
-_Trust and Reciprocity: Are effort and money equivalent?_<br>
-Vilares I, Dam G, and Körding KP.<br>
-PLoS ONE 6(2): e17113. ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0017113), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0017113&representation=PDF))
-
-_How advances in neural recording affect data analysis_
-Stevenson IH and Körding KP.<br>
-Nature Neuroscience 14, 139–142. ([Abstract](http://www.nature.com/neuro/journal/v14/n2/abs/nn.2731.html), [PDF](http://www.nature.com/neuro/journal/v14/n2/pdf/nn.2731.pdf), [Supp](http://www.nature.com/neuro/journal/v14/n2/extref/nn.2731-S1.pdf))
-
-_Discrete-time local dynamic programming_<br>
-Berniker M and Körding KP.<br>
-American Control Conference, 2011, pp. 618-625. ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5990808&tag=1), [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5990808))
-
-<hr>
-
-### 2010
-
-_Mixture of time-warped trajectory models for movement decoding_<br>
-Corbett E, Perreault EJ, and Kording KP <br>
-Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2010/Program/event.php?ID=2104), [PDF](http://books.nips.cc/papers/files/nips23/NIPS2010_0509.pdf))
-
-
-_In praise of “false” models and rich data_<br>
-Fernandes HL, and Körding KP <br>
-Journal of Motor Behavior ([Abstract](http://www.informaworld.com/smpp/content~content=a929880009~db=all~jumptype=rss))
-
-
-_The nervous system uses nonspecific motor learning in response to random perturbations of varying nature_<br>
-Wei K, Wert D, and Körding KP <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/104/6/3053.abstract), [PDF](ttp://klab.wikidot.com/local--files/work/J%20Neurophysiol-2010-Wei-3053-63.pdf))
-
-
-_Looking for synergies between the equilibrium point hypothesis and internal models, Commentary on the Paper by Mark Latash: “Equilibrium Point Hypothesis”_<br>
-Shapiro, M and Kording, KP <br>
-Motor Control ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4007354/pdf/nihms315423.pdf))
-
-
-_The uncertainty associated with visual flow fields and their influence on postural sway: Weber's law suffices to explain the nonlinearity of vection_<br>
-Wei K, Stevenson IH, and Körding KP <br>
-Journal of Vision ([Abstract](http://www.journalofvision.org/content/10/14/4), [PDF](http://www.journalofvision.org/content/10/14/4.full.pdf+html))
-
-
-_Learning priors for Bayesian computations in the nervous system_<br>
-Berniker M, Voss M, and Körding KP <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012686),  PDF)
-
-
-_Sensory adaptation and short term plasticity as Bayesian correction for a changing brain_<br>
-Stevenson IH\*, Cronin B\*, Sur M, and Körding KP (\* contributed equally) <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0012436), PDF)
-
-
-_Rewiring neural interactions by micro-stimulation_<br>
-Rebesco JM, Stevenson IH, Körding KP, Solla SA, and Miller LE <br>
-Frontiers in Systems Neuroscience ([Abstract](http://www.frontiersin.org/Systems_Neuroscience/10.3389/fnsys.2010.00039/abstract), PDF)
-
-
-_Uncertainty of feedback and state estimation determines the speed of motor adaptation_<br>
-Wei K and Körding KP <br>
-Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2010.00011/abstract), PDF)
-
-
-_Self versus Environment Motion in Postural Control_<br>
-Dokka K, Kenyon RV, Keshner EA, and Körding KP <br>
-PLoS Computational Biology ([Abstract](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000680), [PDF](http://klab.smpp.northwestern.edu/wiki/images/7/75/Dokka_2010_Self_vs_Env_Motion_Posture_Ctrl.pdf))
-
-
-_On the similarity of functional connectivity between neurons estimated across timescales_<br>
-Stevenson IH and Körding KP <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi/10.1371/journal.pone.0009206), PDF)
-
-
-_Hierarchical Bayesian modeling and Markov chain Monte Carlo sampling for tuning curve analysis_<br>
-Cronin B\*, Stevenson IH\*, Sur M, and Körding KP (* contributed equally) <br>
-Journal of Neurophysiology 103: 591-602. ([Abstract](http://jn.physiology.org/cgi/content/abstract/103/1/591),  [PDF](http://jn.physiology.org/content/103/1/591.full.pdf), Code)
-
-<hr>
-
-### 2009
-
-_Bayesian integration and non-linear feedback control in a full-body motor task_<br>
-Stevenson IH, Fernandes HL, Vilares I, Wei K, and Körding KP <br>
-PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000629), [PDF](http://www.ploscompbiol.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1000629&representation=PDF))
-
-
-_Comparing Bayesian models for multisensory cue combination without mandatory integration_<br>
-Beierholm U, Kording KP, Shams L, Ma WJ <br>
-Advances in Neural Information Processing Systems ([PDF](http://shamslab.psych.ucla.edu/publications/NIPS2008a.pdf))
-
-
-_Statistics of natural movements are reflected in motor errors_<br>
-Howard IS, Ingram JN, Kording KP, and Wolpert DM <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/102/3/1902.abstract), [PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/HowIngKoerWol09.pdf))
-
-
-_Structural inference affects depth perception in the context of potential occlusion_<br>
-Stevenson IH and Körding KP <br>
-Advances in Neural Information Processing Systems ([Abstract](http://nips.cc/Conferences/2009/Program/event.php?ID=1798), [PDF](http://papers.nips.cc/paper/3663-structural-inference-affects-depth-perception-in-the-context-of-potential-occlusion.pdf))
-
-
-_Bayesian Statistics (with Particular Focus on the Motor System)_<br>
-Berniker, M, and Kording, KP <br>
-Encyclopedia of Neuroscience ([PDF](http://link.springer.com/referenceworkentry/10.1007%2F978-3-540-29678-2_578))
-
-
-_Bayesian inference of functional connectivity and network structure from spikes_<br>
-Stevenson IH, Rebesco JM, Hatsopoulos NG, Haga Z, Miller LE, and Körding KP <br>
-IEEE TNSRE (Special Issue on Brain Connectivity) ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/19273038), [PDF](http://klab.smpp.northwestern.edu/wiki/images/b/ba/Stevenson_Bayesian_inference_2008.pdf), Code)
-
-
-_Relevance of error: what drives motor adaptation?_<br>
-Wei K and Kording KP <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/101/2/655), [PDF](http://jn.physiology.org/content/101/2/655.full-text.pdf+html))
-
-<hr>
-
-### 2008
-
-_Inferring functional connections between neurons_<br>
-Stevenson IH, Rebesco JM, Miller LE, and Körding KP <br>
-Current Opinion in Neurobiology ([Abstract](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VS3-4V3RCH3-3&_user=1458830&_coverDate=12/08/2008&_rdoc=3&_fmt=high&_orig=browse&_srch=doc-info(%23toc%236251%239999%23999999999%2399999%23FLA%23display%23Articles)&_cdi=6251&_sort=d&_docanchor=&_ct=7&_acct=C000052790&_version=1&_urlVersion=0&_userid=1458830&md5=2da6ad84fd91482c9017145ebd2cc8b7), [PDF](http://prism.bham.ac.uk/~popep/jc/SteRebMil2008.pdf))
-
-
-_Exploration and exploitation during sequential search_<br>
-Dam G and Kording KP <br>
-Cognitive Science ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403695/))
-
-
-_A probabilistic model of meetings that combines words and discourse features_<br>
-Dowman, M., Savova, V., Griffiths, T.L., Kording, K.P., Tenenbaum, J.B., Purver, M. <br>
-IEEE Transactions on Audio, Speech, and Language Processing ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4599394&tag=1), [PDF](http://godel.stanford.edu/twiki/pub/Public/SemlabPublications/dowman-et-al08ieee.pdf))
-
-
-_Estimating the sources of motor errors for adaptation and generalization_<br>
-Berniker M and Kording KP <br>
-Nature Neuroscience ([Abstract](http://www.nature.com/neuro/journal/v11/n12/abs/nn.2229.html), [PDF](http://www.nature.com/neuro/journal/v11/n12/pdf/nn.2229.pdf))
-
-
-_The statistics of natural hand movements_<br>
-Ingram JN, Kording KP, Howard IS, Wolpert DM <br>
-Experimental Brain Research ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636901/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636901/pdf/ukmss-3484.pdf))
-
-
-_A probabilistic model of meetings that combines words and discourse features_<br>
-Dowman, M., Savova, V., Griffiths, T. L., Kording, K. P., Tenenbaum, J. B., Purver, M. <br>
-IEEE Transactions on Audio, Speech, and Language Processing ([PDF](http://klab.smpp.northwestern.edu/wiki/images/d/dc/Dowman_Prob_model_word_features_2008.pdf))
-
-<hr>
-
-### 2007
-
-_Dynamics of orientation tuning in cat V1 neurons depend on location within layers and orientation map_<br>
-Schummers, J Cronin, B , Wimmer, K, Stimberg, M , Martin, R, Obermayer, K , Kording, K and Sur, M <br>
-Frontiers in Neuroscience ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570087/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2570087/pdf/fnins-01-145.pdf))
-
-
-_Causal Inference in Multisensory Perception_<br>
-Kording, KP, Beierholm, U., Ma, W., Quartz, S., Tenenbaum, J., Shams, L. <br>
-PLoS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000943), [PDF](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000943))
-
-
-_Decision theory: what should the nervous system do?_<br>
-Kording KP <br>
-Science ([Abstract](http://science.sciencemag.org/content/318/5850/606.long), [PDF](http://science.sciencemag.org/content/318/5850/606.full.pdf))
-
-
-_The dynamics of memory as a consequence of optimal adaptation to a changing body_<br>
-Kording KP, Tenenbaum JB, and Shadmehr R <br>
-Nature Neuroscience ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2551734/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2551734/pdf/nihms-66886.pdf))
-
-
-<hr>
-
-### 2006
-
-_Causal Inference in sensorimotor integration_<br>
-Kording, K. and Tenenbaum, J. B.  <br>
-Advances in Neural Information Processing Systems ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.9300&rep=rep1&type=pdf))
-
-
-_Probabilistic mechanisms in sensorimotor control_<br>
-Kording, KP and Wolpert, D <br>
-Novartis Foundation symposium ([Abstract](http://onlinelibrary.wiley.com/doi/10.1002/9780470034989.ch15/summary))
-
-
-_Multiple timescales and uncertainty in motor adaptation_<br>
-Kording, KP., Tenenbaum, JB., and Shadmehr, R. <br>
-Advances in Neural Information Processing Systems ([PDF](http://books.nips.cc/papers/files/nips19/NIPS2006_0116.pdf))
-
-
-_Bayesian decision theory in sensorimotor control_<br>
-Kording and Wolpert, D. <br>
-Trends in Cognitive Sciences ([PDF](http://www.aliquote.org/cours/2006_cogmaster_B4/pdf/Kording2006.pdf))
-
-
-_Unsupervised topic modelling for multi-party spoken discourse_<br>
-Purver, M., Kording, K. P., Griffiths, T. L., & Tenenbaum, J. B. <br>
-Proceedings of Coling/ACL ([PDF](http://web.mit.edu/cocosci/Papers/purver-et-al06acl.pdf))
-
-<hr>
-
-### 2004
-
-_Bayesian Integration in Force Estimation_<br>
-Kording, KP, Ku, SP and Wolpert, D. <br>
-Journal of Neurophysiology ([PDF](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/KorKuWol04.pdf))
-
-
-_Processing of complex stimuli and natural scenes in the visual cortex_<br>
-Kayser, C, Körding, KP, König, P <br>
-Opinion in Neurobiology ([PDF](http://kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2966.pdf))
-
-
-_Bayesian Statistics and Utility Functions in Sensorimotor Control_<br>
-Kording, KP and Wolpert, DM <br>
-In Bayesian Brain, Doya, K., Ishii, S, Pouget, A. and Rao, RPN (eds), MIT Press ([Book Info](hhttp://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262042383.001.0001/upso-9780262042383-chapter-13))
-
-
-_Predicting Properties of the Rat Somatosensory System by Sparse Coding_<br>
-Hafner, VV. , Fend, M. , König, P. and Körding, KP. <br>
-Neural Information Processing Letters and Reviews ([PDF](https://adapt.informatik.hu-berlin.de/pub/papers/hafner-niplr04.pdf))
-
-
-_A Neuroeconomics Approach to Inferring Utility Functions in Sensorimotor Control_<br>
-Körding, KP., Fukunaga, I., Howard, IS., Ingram, J. and Wolpert, D. <br>
-PLoS Biology ([Abstract](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020330), [PDF](http://cbl.eng.cam.ac.uk/pub/Public/Wolpert/Publications/KorFuk04.pdf))
-
-
-_The loss function of sensorimotor learning_<br>
-Körding, KP. and Wolpert, D. <br>
-Proceedings of the National Academy of Sciences ([Abstract](http://www.pnas.org/content/101/26/9839.full), [PDF](http://www.pnas.org/content/101/26/9839.full.pdf))
-
-
-_Bayesian Integration in Sensorimotor Learning_<br>
-Körding, KP. and Wolpert, D. <br>
-Nature ([Abstract](http://www.nature.com/nature/journal/v427/n6971/full/nature02169.html), [PDF](http://www.nature.com/nature/journal/v427/n6971/pdf/nature02169.pdf))
-
-
-_The world from a cat's perspective -- statistics of natural videos_<br>
-Betsch, B, Einhäuser, W., Körding, KP and König, P <br>
-Biological Cybernetics ([PDF](https://cogsci.uni-osnabrueck.de/~NBP/PDFs_Publications/Betsch.BC.04.pdf))
-
-<hr>
-
-### 2003
-
-_How are complex cell properties adapted to the statistics of natural scenes?_<br>
-Körding, KP, Kayser, C., Einhäuser, W. and König,P. <br>
-Journal of Neurophysiology ([PDF](https://camtools.cam.ac.uk/access/content/group/d4fe6800-4ce2-4bad-8041-957510e5aaed/Public/3G3/KoeKayEin_JNP_04.pdf))
-
-
-_Probabilistic Inference in Human Sensorimotor Processing_<br>
-Körding, KP. and Wolpert, D. <br>
-NIPS ([PDF](http://cbl.eng.cam.ac.uk/pub/Public/Wolpert/Publications/KorWol04_NIPS.pdf))
-
-
-_Optimal coding for naturally occurring whisker deflections_<br>
-Hafner, V. V., Fend, M., Lungarella, M., Pfeifer, R., König, P., Körding, K. P. <br>
-Proceedings of the Joint International Conference on Artificial Neural Networks and Neural Information Processing (ICANN/ICONIP) ([PDF](http://klab.smpp.northwestern.edu/wiki/images/0/04/Hafner_Optimal_code_natural_whisker_deflect_2003.pdf))
-
-
-_Learning distinct and complementary feature-selectivities from natural colour videos_<br>
-Einhäuser, W., Kayser, C., Körding, K.P. and König,P. <br>
-Reviews in the Neurosciences ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/12929917), [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42042))
-
-
-_Sparse spectrotemporal coding of sounds_<br>
-Klein, D.J., König, P. and Körding, K.P. <br>
-EURASIP Journal on Applied Signal Processing ([Abstract](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002594), [PDF](http://klab.smpp.northwestern.edu/wiki/images/0/05/Klein_Sparse_spectrotemporal_coding_sounds_2003.pdf))
-
-
-_On the choice of a sparse prior_<br>
-Körding, K.P., Kayser, C. and König, P. <br>
-Reviews in the Neurosciences ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/12929918), [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42068))
-
-
-_Learning the nonlinearity of neurons from natural visual stimuli_<br>
-Kayser C, Körding KP, König P. <br>
-Neural Computation ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/12929918), [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=42068))
-
-<hr>
-
-### 2002
-
-_Learning Multiple Feature Representations from Natural Image Sequences_<br>
-Einhäuser,W. Kayser,C. Körding K.P. and König,P. <br>
-Artificial Neural Networks:ICANN 2002, Springer Verlag Berlin Heidelberg New York. ([Abstract](http://www.scholars.northwestern.edu/pubDetail.asp?t=&id=84902153608&), [PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjUnYnW36_LAhUHuYMKHQJ8DxEQFgglMAE&url=http%3A%2F%2Fwww.ini.uzh.ch%2Fadmin%2Fextras%2Fdoc_get.php%3Fid%3D41968&usg=AFQjCNHZgjtXgTrJWJ8H3CXTJsrCTW_AWw&sig2=xuhz0y3SMI5LpcHxN0yRxg&bvm=bv.116274245,d.amc))
-
-
-_Learning the invariance properties of complex cells from their responses to natural stimuli_<br>
-Einhäuser, W., Kayser, C. , König, P. and Körding, K.P. <br>
-Eur J Neurosci ([PDF](http://onlinelibrary.wiley.com/store/10.1046/j.0953-816x.2001.01885.x/asset/j.0953-816x.2001.01885.x.pdf;jsessionid=CD61AD9D78406604D5E638D4A30D057A.f02t01?v=1&t=ilimsp9w&s=77e07c8ec465534c0859ec5e97a5c34a8760c59b))
-
-
-_Learning of sparse auditory receptive fields_<br>
-Konrad P. Körding, Peter König, and David J. Klein <br>
-IJCNN ([Abstract](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1007648), [PDF](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1007648))
-
-<hr>
-
-### 2001
-
-_Non contact eye-tracking on cats_<br>
-Körding, K.P., Kayser C., Betsch, B. and König, P. <br>
-J Neurosci Methods ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/11564530), [PDF](http://klab.smpp.northwestern.edu/wiki/images/a/a7/Kording_2001_Non_contact_eye_track_cats.pdf))
-
-
-_Neurons with two sites of synaptic integration learn invariant representations_<br>
-Körding, K.P. and König,P. <br>
-Neural Computation ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/11705412), [PDF](http://www.ini.uzh.ch/admin/extras/doc_get.php?id=41902))
-
-
-_Extracting slow subspaces from natural videos leads to complex cells_<br>
-Kayser, C., Einhäuser, W., Dümmer, O., König, P. and Körding, K.P. <br>
-International conference on artificial neural networks ([PDF](http://whatisthenet.com/pubs/Kayseretal2001.pdf))
-
-
-_Supervised and unsupervised learning with two sites of synaptic integration_<br>
-Körding, K.P. and König ,P. <br>
-Journal of Computational Neuroscience ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/11796938), [PDF](http://sulu.smpp.northwestern.edu/downloads/learnwithtwosites.pdf))
-
-<hr>
-
-### 2000
-
-_A spike based learning rule for the generation of invariant representations_<br>
-Körding, K.P. and König, P. <br>
-Journal of Physiology Paris ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/11165918), [PDF](http://www.sciencedirect.com/science/article/pii/S0928425700010883))
-
-
-_A learning rule for local decorrelation and dynamic decorrelation_<br>
-Körding, K.P. and König, P. <br>
-Neural Networks ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/10935452), [PDF](http://www.sciencedirect.com/science/article/pii/S089360809900088X))
-
-
-_Integrating top-down and bottom-up sensory processing by somato-dendritic interactions_<br>
-Siegel,M. Körding,K.P. and König, P. <br>
-J. Comp. Neurosci ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/10798600), [PDF](http://www.kording.eu/pubs/SiegelKordingKonigJCN.pdf))
-
-
-_Learning with two sites of synaptic integration_<br>
-Konrad P. Körding and Peter König <br>
-Network: Computation in Neural Systems ([PDF](http://sulu.smpp.northwestern.edu/downloads/learnwithtwosites.pdf))
-
-
-_Two sites of synaptic integration: Relevant for learning?_<br>
-Körding, K.P. and König, P. <br>
-International Joint Conference on Neural Networks ([PDF](http://klab.smpp.northwestern.edu/wiki/images/f/f0/Kording_Two_sites_synap_integrate_relevant_learn_2000.pdf))
-
-<hr>
+_Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf*_<br>
+S Ehrling, I Senkovska, V Bon, JD Evans, P Petkov, Y Krupskaya, V Kataev, T Wulf, A Krylov, A Vtyurin, S Krylova, S Adichtchev, E Slyusareva, MS Weiss, B Büchner, T Heine, S Kaskel<br>
+Movement Disorders, 2007 ([Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Tiz5es2fbqcC))
 
 ### Copyright Notice
 

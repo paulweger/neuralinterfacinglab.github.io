@@ -104,7 +104,8 @@ Computational Intelligence Methods for Bioinformatics and Biostatistics: 16th In
 <i>Kjeld Vossen, Jan-Joost Rethans, Sander MJ van Kuijk, Cees P van der Vleuten, Pieter L Kubben</i>
 JMIR medical education, 2020</td></tr>
 </table>
-  <table>
+### 2019
+ <table>
   <tr><td><a href="https://www.nature.com/articles/s41531-019-0093-5">Monitoring Parkinson’s disease symptoms during daily life: a feasibility study</a>
 <i>Margot Heijmans, Jeroen GV Habets, Christian Herff, Jos Aarts, An Stevens, Mark L Kuijf, Pieter L Kubben</i>
 npj Parkinson's Disease, 2019</td></tr>
@@ -146,7 +147,7 @@ Surgical neurology international, 2019</td></tr>
 Fundamentals of Clinical Data Science, 2019</td></tr>
 </table>
 ### 2018
-  <table>
+<table>
   <tr><td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208119">Predicting altcoin returns using social media</a>
 <i>Lars Steinert, Christian Herff</i>
 PloS one, 2018</td></tr>
@@ -169,9 +170,9 @@ ESANN 2018 - 26th European Symposium on Artificial Neural Networks, Computationa
 <i>Aurélie Degeneffe, Mark L Kuijf, Linda Ackermans, Yasin Temel, Pieter L Kubben</i>
 Surgical neurology international, 2018</td></tr>
 <tr><td><a href="https://link.springer.com/article/10.1007/s00701-017-3242-9">Methodology, outcome, safety and in vivo accuracy in traditional frame-based stereoelectroencephalography</a>
-</table
+</table>
  ### 2017
- <table
+ <table>
   <i>Lars E van der Loo, Olaf EMG Schijns, Govert Hoogland, Albert J Colon, G Louis Wagner, Jim TA Dings, Pieter L Kubben</i>
 Acta neurochirurgica, 2017</td></tr>
 <tr><td><a href="https://core.ac.uk/download/pdf/189934577.pdf#page=73">Evaluating fNIRS-based workload discrimination in a realistic driving scenario</a>
@@ -264,220 +265,99 @@ Frontiers in Human Neuroscience, 2015</td></tr>
 <tr><td><a href="https://csl.uni-bremen.de/cms/images/documents/publications/BCI_Heger2014.pdf">Continuous affective states recognition using functional near infrared spectroscopy</a>
 <i>Dominic Heger, Christian Herff, Felix Putze, Reinhard Mutter, Tanja Schultz</i>
 Brain-Computer Interfaces, 2014</td></tr>
-
-
 <tr><td><a href="https://internal-journal.frontiersin.org/articles/10.3389/fnhum.2013.00935/full">Mental workload during n-back task—quantified in the prefrontal cortex using fNIRS</a>
 <i>Christian Herff, Dominic Heger, Ole Fortmann, Johannes Hennrich, Felix Putze, Tanja Schultz</i>
 Frontiers in Human Neuroscience, 2014</td></tr>
-
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:ZeXyd9-uunAC">Intraoperative MRI versus standard neuron-avigation for the neurosurgical treatment of glioblastoma: a randomized controlled trial.</a>
 <i>PL Kubben, Félix Scholtes, OEMG Schijns, Ter Laak-Poort, OPM Teernstra, AGH Kessels, JJ Van Overbeeke, Didier MARTIN, H Van Santbrink</i>
 Surgical Neurology, 2014</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc4078446/">Intraoperative magnetic resonance imaging versus standard neuronavigation for the neurosurgical treatment of glioblastoma: a randomized controlled trial</a>
 <i>Pieter L Kubben, Felix Scholtes, Olaf EMG Schijns, Mariël P ter Laak-Poort, Onno PM Teernstra, Alfons GH Kessels, Jacobus J van Overbeeke, Didier H Martin, Henk Van Santbrink</i>
 Surgical neurology international, 2014</td></tr>
-
-
-
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:roLk4NBRz8UC">The Use of Smartphones and Mobile Clinical Decision Support Systems in Clinical Clerkships.</a>
 <i>AMR Schols, HHLM Donkers, Manuela Voorend, DML Verstegen, Henk Hoogland, Pieter Leonard Kubben</i>
 International Journal of Interactive Mobile Technologies, 2013</td></tr>
-
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:M3ejUd6NZC8C">BORDERZONE SAMPLING STUDY</a>
-<i>PL Kubben</i>
-Ultra low-field strength intraoperative MRI: for glioblastoma surgery, 2013</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:UebtZRa9Y70C">RANDOMIZED TRIAL</a>
-<i>PL Kubben, F Scholtes, OEMG Schijns, AGH Kessels, JJ Van Overbeeke, D Martin</i>
-Ultra low-field strength intraoperative MRI: for glioblastoma surgery, 2013</td></tr>
-
 <tr><td><a href="https://cyberleninka.org/article/n/1053140.pdf">Intraoperative magnetic resonance imaging for high grade glioma resection: Evidence-based or wishful thinking</a>
 <i>Pieter L Kubben, Henk Van Santbrink</i>
 Surg Neurol Int, 2013</td></tr>
-
-<tr><td><a href="https://csl.uni-bremen.de/cms/images/documents/publications/heger_towards_biometric_BCI-meeting_2013_USletter.pdf">Towards biometric person identification using fnirs</a>
-<i>D Heger, C Herff, F Putze, T Schultz</i>
-Proceedings of the Fifth International Brain-Computer Interface Meeting: Defining the Future, 2013</td></tr>
-
-<tr><td><a href="https://www.csl.uni-bremen.de/cms/images/documents/publications/HerffSchultz_BCIMEETING2013.pdf">Self-paced BCI with NIRS based on speech activity</a>
-<i>C Herff, D Heger, F Putze, C Guan, T Schultz</i>
-International BCI Meeting, 2013</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:4TOpqqG69KYC">Windows 8: A promise for tablet computers in the hospital?</a>
 <i>Pieter L Kubben</i>
 Surgical neurology international, 2013</td></tr>
-
 <tr><td><a href="https://pdfs.semanticscholar.org/02f5/34e1475d3df90a9b00505c0637aeaf5dfbb2.pdf">Why physicians might want to learn computer programming</a>
 <i>Pieter Kubben</i>
 Surgical neurology international, 2013</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:mVmsd5A6BfQC">P. 298 MOBILE CLINICAL DECISION SUPPORT SYSTEMS FOR IMPLEMENTATION OF NEUROONCOLOGICAL GUIDELINES</a>
 <i>P Kubben</i>
 Neuro-oncology, 2012</td></tr>
-
-
-
 <tr><td><a href="https://link.springer.com/content/pdf/10.1007/s00381-012-1815-8.pdf">Implementation of a mobile 0.15-T intraoperative MR system in pediatric neuro-oncological surgery: feasibility and correlation with early postoperative high-field strength MRI</a>
 <i>PL Kubben, H Van Santbrink, M ter Laak-Poort, JW Weber, JSH Vles, B Granzen, JJ van Overbeeke, EMJ Cornips</i>
 Child's Nervous System, 2012</td></tr>
-
 <tr><td><a href="https://is.ieis.tue.nl/staff/pvgorp/research/VanGorpEtAl2012FHIESpreproceedings.pdf">MDE support for process-oriented health information systems: from theory to practice</a>
 <i>Pieter Van Gorp, Irene Vanderfeesten, Willem Dalinghaus, Josh Mengerink, Bram van der Sanden, Pieter Kubben</i>
 Pre-proceedings of FHIES 2012, 2012</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:qjMakFHDy7sC">Letter to the editor: Glioblastoma resection</a>
 <i>Pieter Kubben, Henk van Santbrink</i>
 Journal of neurosurgery, 2012</td></tr>
-
 <tr><td><a href="https://cyberleninka.org/article/n/1173051.pdf">SLIC 2: Improved decision support for subaxial cervical spine injury</a>
 <i>Pieter L Kubben</i>
 Surg Neurol Int, 2012</td></tr>
-
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:r0BpntZqJG4C">Blogs for neurosurgeons</a>
 <i>Pieter Kubben, Lucas Freitas De Albuquerque, Atos De Sousa</i>
 Surgical Neurology International, 2012</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551496/">An open-source and cross-platform framework for Brain Computer Interface-guided robotic arm control</a>
 <i>Pieter L Kubben, Nader Pouratian</i>
 Surgical neurology international, 2012</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:qxL8FJ1GzNcC">The Neurosurgeon's Handbook</a>
-<i>Pieter L Kubben</i>
-Surgical Neurology International, 2012</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Se3iqnhoufwC">Neurosurgery case review</a>
-<i>Pieter Kubben</i>
-Surgical Neurology International, 2012</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:MXK_kJrjxJIC">Brain mapping: from neural basis of cognition to surgical applications</a>
 <i>Pieter L Kubben</i>
 Surgical Neurology International, 2012</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551502/">Correlation between contrast enhancement on intraoperative magnetic resonance imaging and histopathology in glioblastoma</a>
 <i>Pieter L Kubben, Pieter Wesseling, Martin Lammens, Olaf EMG Schijns, Mariël P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink</i>
 Surgical neurology international, 2012</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3385064/">Blogs for neurosurgeons</a>
 <i>Júlio Leonardo Barbosa Pereira, Pieter L Kubben, Lucas Alverne Freitas de Albuquerque, Gervásio Teles C de Carvalho, Atos Alves de Sousa</i>
 Surgical neurology international, 2012</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:YOwf2qJgpHMC">Online conferencing: Less CO 2, more effective?</a>
 <i>Pieter Kubben</i>
 Surgical neurology international, 2012</td></tr>
-
-
 <tr><td><a href="https://pdfs.semanticscholar.org/e022/d11b95a862706685c8a141d8ceea54f9ce19.pdf">NeuroMind 2: Interactive decision support for neurosurgery</a>
 <i>Pieter Kubben</i>
 Surgical neurology international, 2012</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3551502/">Correlation between contrast enhancement on intraoperative magnetic resonance imaging and histopathology in glioblastoma</a>
 <i>Pieter L Kubben, Pieter Wesseling, Martin Lammens, Olaf EMG Schijns, Mariël P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink</i>
 Surgical neurology international, 2012</td></tr>
-
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u5HHmVD_uO8C">Intraoperative MRI-guided resection of glioblastoma multiforme: a systematic review</a>
 <i>Pieter L Kubben, Karlien J ter Meulen, Olaf EMG Schijns, Mariel P ter Laak-Poort, Jacobus J van Overbeeke, Henk van Santbrink</i>
 The lancet oncology, 2011</td></tr>
-
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:fPk4N6BV_jEC">Meulen Ter KJ, Schijns OE, Laak‑Poort Ter MP, van Overbeeke JJ, Santbrink HV. Intraoperative MRI‑guided resection of glioblastoma multiforme: A systematic review</a>
-<i>PL Kubben</i>
-Lancet Oncol, 2011</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3157090/">QR codes in neurosurgery</a>
 <i>Pieter L Kubben</i>
 Surgical neurology international, 2011</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3062806/">Twitter for neurosurgeons</a>
 <i>Pieter L Kubben</i>
 Surgical neurology international, 2011</td></tr>
-
 <tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc3086168/">An evidence-based mobile decision support system for subaxial cervical spine injury treatment</a>
 <i>PL Kubben, H Van Santbrink, EMJ Cornips, Alex R Vaccaro, MF Dvorak, LW Van Rhijn, AJJA Scherpbier, H Hoogland</i>
 Surgical neurology international, 2011</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:QIV2ME_5wuYC">CONTRAST ENHANCEMENT ON INTRAOPERATIVE MRI: IS IT TUMOR?: P. 068.</a>
 <i>P Kubben, H van Santbrink, M Lammens, M ter Laak-Poort, OEMG Schijns</i>
 Neuro-oncology, 2010</td></tr>
-
 <tr><td><a href="https://www.academia.edu/download/46045627/Transsphenoidal_Treatment_of_Secondary_E20160529-29428-17mt2mw.pdf">Transsphenoidal treatment of secondary empty sella syndrome using low field strength intraoperative MRI: case report</a>
 <i>PL Kubben, EMJ Cornips, B-J Looij, EAM Beuls</i>
 min-Minimally Invasive Neurosurgery, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:maZDTaKrznsC">Neurosurgery 2.0-a Combination Of Open Access, Web 2.0 And Decision Technology</a>
-<i>Pieter Leonard Kubben</i>
-Medicine 2.0 Conference, 2010</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:d1gkVwhDpl0C">Intraobserver and interobserver agreement in volumetric assessment of glioblastoma multiforme resection</a>
 <i>Pieter L Kubben, Alida A Postma, Alfons GH Kessels, Jacobus J van Overbeeke, Henk van Santbrink</i>
 Neurosurgery, 2010</td></tr>
-
-<tr><td><a href="https://isl.anthropomatik.kit.edu/downloads/niehues2010kit.pdf">The KIT translation system for IWSLT 2010.</a>
-<i>Jan Niehues, Mohammed Mediani, Teresa Herrmann, Michael Heck, Christian Herff, Alex Waibel</i>
-Proceedings of the seventh International Workshop on Spoken Language Translation (IWSLT), 2010</td></tr>
-
-<tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2958314/">Neurosurgical content for mobile devices</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2940092/">A free forum for neurosurgery and neuroscience</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908359/">Introducing Neurosurgery 2.0</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u-x6o8ySG0sC">Neurosurgical apps for iPhone, iPod Touch, iPad and Android</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Zph67rFs4hoC">Neurosurgical videos going mobile</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:hqOjcs7Dif8C">Comprehensive neurosurgery board review</a>
-<i>Pieter L Kubben</i>
-Surgical Neurology International, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:9ZlFYXVOiuMC">The cerefy® Atlas of cerebral vasculature</a>
-<i>Pieter L Kubben</i>
-Surgical Neurology International, 2010</td></tr>
-
-<tr><td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmc2941089/">What every neurosurgeon should know about the Web 2.0</a>
-<i>Pieter L Kubben</i>
-Surgical neurology international, 2010</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:ULOm3_A8WrAC">Preliminary experience with PoleStar N20 iMRI in pediatric neuro-oncology</a>
-<i>E Cornips, P Kubben, B Granzen, B Weber</i>
-Surgical Neurology, 2009</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Wp0gIr-vW9MC">A Collaborative Webbased Framework with Optimized Mobile Synchronisation: Upgrading to Medicine 2.0.</a>
 <i>Pieter Leonard Kubben</i>
 International Journal of Interactive Mobile Technologies, 2008</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:u_35RYKgDlwC">Intraoperatieve MRI bij hersenchirurgie</a>
 <i>PL Kubben, H Van Santbrink, GHJJ Spincemaille, WP Vandertop</i>
 Nederlands Tijdschrift voor Geneeskunde, 2007</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:W7OEmFMy1HYC">Intraoperative MRI in brain surgery</a>
 <i>PL van Kubben, H van Santbrink, GH Spincemaille, WP Vandertop</i>
 Nederlands tijdschrift voor geneeskunde, 2007</td></tr>
-
 <tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:IjCSPb-OGe4C">Intraoperative MRI in brain surgery</a>
 <i>PL van Kubben, H van Santbrink, GH Spincemaille, WP Vandertop</i>
 Nederlands tijdschrift voor geneeskunde, 2007</td></tr>
-
-<tr><td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qJ8121AAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=qJ8121AAAAAJ:Tiz5es2fbqcC">Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf*</a>
-<i>S Ehrling, I Senkovska, V Bon, JD Evans, P Petkov, Y Krupskaya, V Kataev, T Wulf, A Krylov, A Vtyurin, S Krylova, S Adichtchev, E Slyusareva, MS Weiss, B Büchner, T Heine, S Kaskel</i>
-Movement Disorders, 2007</td></tr>
-  
-  
 </table>
 
 

@@ -13,7 +13,7 @@ Making sense of data is possibly the biggest problem in Neuroscience and beyond.
 ## invasive Brain-Computer Interfaces
 
 <img src="{{site.baseurl}}/images/other/brain_spinning.gif" style="float: right;" width=40% >
-<img width="300" src="{{site.baseurl}}/images/people/brain_spinning.gif" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/other/brain_spinning.gif" data-action="zoom">
 Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
 
 

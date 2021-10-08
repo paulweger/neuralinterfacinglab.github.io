@@ -170,7 +170,7 @@ ESANN 2018 - 26th European Symposium on Artificial Neural Networks, Computationa
 <i>Aurélie Degeneffe, Mark L Kuijf, Linda Ackermans, Yasin Temel, Pieter L Kubben</i>
 Surgical neurology international, 2018</td></tr>
 </table>
- ### 2017
+### 2017
  <table>
   <tr><td><a href="https://link.springer.com/article/10.1007/s00701-017-3242-9">Methodology, outcome, safety and in vivo accuracy in traditional frame-based stereoelectroencephalography</a>
   <i>Lars E van der Loo, Olaf EMG Schijns, Govert Hoogland, Albert J Colon, G Louis Wagner, Jim TA Dings, Pieter L Kubben</i>

@@ -14,7 +14,9 @@ joined: 2021
 <a href="https://github.com/m-verwoert/"> <i class="fa fa-github"></i> GitHub </a><br>
 
 #### Biography
+Maxime obtained her BSc Psychology and MSc Neuroscience & Cognition from Utrecht University. She worked as a research assistant in the BCI group in Utrecht (<a href="https://www.nick-ramsey.eu/">Nick Ramsey's Lab</a>) before starting her PhD in March 2021 in the Neural Interfacing Lab in Maastricht. Her project is part of the Innovative Neurotechnology for Society consortium (<a href="https://intenseproject.eu/">INTENSE</a>).
 
 #### Research Interests
+
 
 #### Publications

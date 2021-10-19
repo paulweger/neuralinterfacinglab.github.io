@@ -18,3 +18,5 @@ Maxime obtained her BSc Psychology and MSc Neuroscience & Cognition from Utrecht
 
 #### Research Interests
 Her PhD project is focussed on synthesizing speech in real-time from invasive electroencephalography recordings. In particular, she's working on improving the current technology to bring it closer to a practical application for individuals who have lost the ability to speak.
+
+

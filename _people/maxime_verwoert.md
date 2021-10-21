@@ -1,7 +1,7 @@
 ---
 name: Maxime Verwoert
 position: gradstudent
-avatar: Maxime_Verwoert.jpg
+avatar: Maxime_Verwoert.jpeg
 twitter: 
 joined: 2021
 ---

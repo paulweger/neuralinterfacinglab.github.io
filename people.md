@@ -59,7 +59,8 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Jeroen Habets](https://www.linkedin.com/in/jeroen-habets-b6721321/) | PhD Student (2017 - 2021) | Scientific consultant RuneLabs & Postdoc Neurosurgery Charité |
-
+| Jeremy Saal | Research Assistant (2019 - 2020) | PhD student @ UCSF |
+| [Jonas Kohler](https://ch.linkedin.com/in/jonasmoritzkohler) | Visiting Researcher (2020) | PhD student @ ETH Zuerich |
 
 {% endif %}
 {% endfor %}

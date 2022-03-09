@@ -13,7 +13,7 @@ table {
 }
 
 td, th {
-  font-size: 2px
+  font-size: 10px
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -22,12 +22,18 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+  
+span { 
+  font-size: 8px;
+  }
+  
 </style>
 </head>
+
 ### 2022
 <table>
 <tr><td><a href="https://www.tandfonline.com/doi/abs/10.1080/2326263X.2021.2009654">Workshops of the eighth international brain–computer interface meeting: BCIs: the next frontier</a><br>
-<i>Jane E Huggins, Dean Krusienski, Mariska J Vansteensel, Davide Valeriani, Antonia Thelen, Sergey Stavisky, James JS Norton, Anton Nijholt, Gernot Müller-Putz, Nataliya Kosmyna, Louis Korczowski, Christoph Kapeller, Christian Herff, Sebastian Halder, Christoph Guger, Moritz Grosse-Wentrup, Robert Gaunt, Aliceson Nicole Dusang, Pierre Clisson, Ricardo Chavarriaga, Charles W Anderson, Brendan Allison, Tetiana Aksenova, Erik Aarnoutse</i><br>
+<i><span>Jane E Huggins, Dean Krusienski, Mariska J Vansteensel, Davide Valeriani, Antonia Thelen, Sergey Stavisky, James JS Norton, Anton Nijholt, Gernot Müller-Putz, Nataliya Kosmyna, Louis Korczowski, Christoph Kapeller, Christian Herff, Sebastian Halder, Christoph Guger, Moritz Grosse-Wentrup, Robert Gaunt, Aliceson Nicole Dusang, Pierre Clisson, Ricardo Chavarriaga, Charles W Anderson, Brendan Allison, Tetiana Aksenova, Erik Aarnoutse</span></i><br>
 Brain-Computer Interfaces, 2022</td></tr>
 </table>
 ### 2021

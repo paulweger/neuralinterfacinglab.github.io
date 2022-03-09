@@ -22,6 +22,14 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
   
+tr :not(a) {
+  font-size: 90%;
+  }
+  
+i {
+  font-size: 80% !important;
+ }
+  
 span_b { 
   font-size: 80%;
   }

@@ -24,11 +24,11 @@ tr:nth-child(even) {
 }
   
 a {
-  font-size: 18%;
+  font-size: 18px;
   }
   
 i {
-  font-size: 14% !important;
+  font-size: 14px !important;
  }
   
 </style>

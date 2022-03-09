@@ -23,12 +23,12 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
   
-tr :not(a) {
-  font-size: 90%;
+a {
+  font-size: 110%;
   }
   
 i {
-  font-size: 80% !important;
+  font-size: 90% !important;
  }
   
 </style>

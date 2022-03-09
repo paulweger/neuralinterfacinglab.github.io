@@ -13,7 +13,6 @@ table {
 }
 
 td, th {
-  font-size: 10px
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -24,7 +23,7 @@ tr:nth-child(even) {
 }
   
 span_b { 
-  font-size: 8px;
+  font-size: 80%;
   }
   
 </style>

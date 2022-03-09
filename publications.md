@@ -8,7 +8,7 @@ permalink: /publication/
 <style>
 table {
   font-family: arial, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   border-collapse: collapse;
   width: 100%;
 }
@@ -24,11 +24,11 @@ tr:nth-child(even) {
 }
   
 a {
-  font-size: 18px;
+  font-size: 16px;
   }
   
 i {
-  font-size: 14px !important;
+  font-size: 12px !important;
  }
   
 </style>

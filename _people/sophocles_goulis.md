@@ -8,8 +8,6 @@ joined: 2021
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-s.goulis@maastrichtuniversity.nl
-
 
 #### Contact
 <i class="fa fa-envelope-o"></i> s.goulis@maastrichtuniversity.nl <br>

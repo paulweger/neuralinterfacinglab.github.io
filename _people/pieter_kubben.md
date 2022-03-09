@@ -15,5 +15,5 @@ joined: 2016
 <i class="fa fa-github"> [DigNeurosurgeon](https://github.com/DigNeurosurgeon) <br/>
 
 ### Research Interests
-Dr. Pieter Kubben is the Brain Butcher in the group...
+Pieter Kubben, MD, PhD, IFAANS, is a neurosurgeon from Maastricht University Medical Center with a clinical focus on stereotactic neurosurgery, in particular deep brain stimulation and invasive recordings for epilepsy surgery. Pieter has a particular interest in improving clinical neurosurgery with information technology, and his research efforts focus on adaptive deep brain stimulation and brain computer interfacing. Moreover, Pieter is the developer of the [NeuroMind app](http://neuromind.app) and the lead editor of the open-access ebook on the [Fundamentals of Clinical Data Science](http://www.clinicaldatasciencebook.com). In 2022 he became the editor-in-chief of [JMIR Neurotechnology](https://neuro.jmir.org).
 

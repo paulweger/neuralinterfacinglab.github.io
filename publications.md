@@ -26,6 +26,10 @@ span_b {
   font-size: 80%;
   }
   
+span_c { 
+  font-size: 90%;
+  }
+  
 </style>
 </head>
 
@@ -33,13 +37,13 @@ span_b {
 <table>
 <tr><td><a href="https://www.tandfonline.com/doi/abs/10.1080/2326263X.2021.2009654">Workshops of the eighth international brain–computer interface meeting: BCIs: the next frontier</a><br>
 <i><span_b>Jane E Huggins, Dean Krusienski, Mariska J Vansteensel, Davide Valeriani, Antonia Thelen, Sergey Stavisky, James JS Norton, Anton Nijholt, Gernot Müller-Putz, Nataliya Kosmyna, Louis Korczowski, Christoph Kapeller, Christian Herff, Sebastian Halder, Christoph Guger, Moritz Grosse-Wentrup, Robert Gaunt, Aliceson Nicole Dusang, Pierre Clisson, Ricardo Chavarriaga, Charles W Anderson, Brendan Allison, Tetiana Aksenova, Erik Aarnoutse</span_b></i><br>
-Brain-Computer Interfaces, 2022</td></tr>
+<span_c>Brain-Computer Interfaces, 2022</span_c></td></tr>
 </table>
 ### 2021
 <table>
 <tr><td><a href="https://arxiv.org/abs/2111.01457">Synthesizing Speech from Intracranial Depth Electrodes using an Encoder-Decoder Framework</a><br>
-<i>Jonas Kohler, Maarten C Ottenhoff, Sophocles Goulis, Miguel Angrick, Albert J Colon, Louis Wagner, Simon Tousseyn, Pieter L Kubben, Christian Herff</i><br>
-arXiv, 2021</td></tr><br>
+<i><span_b>Jonas Kohler, Maarten C Ottenhoff, Sophocles Goulis, Miguel Angrick, Albert J Colon, Louis Wagner, Simon Tousseyn, Pieter L Kubben, Christian Herff</span_b></i><br>
+<span_c>arXiv, 2021</span_c></td></tr><br>
 <tr><td><a href="https://ieeexplore.ieee.org/abstract/document/9629639">Continuously Decoding Grasping Movements using Stereotactic Depth Electrodes</a><br>
 <i>Maarten C Ottenhoff, Sophocles Goulis, Louis Wagner, Simon Tousseyn, Albert Colon, Pieter Kubben, Christian Herff</i><br>
 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021</td></tr>

@@ -37,6 +37,5 @@ Some of the groups we are collaborating with:
 **External:**
 
 - [ASPEN LAB - Virgina Commonwealth University](https://sites.google.com/vcu.edu/aspenlab)
-- [UC Davis Neuroprosthetics Lab](https://stavisky.info/)
 - [Utrecht NeuroProsthesis](https://www.nick-ramsey.eu/)
 - [Clinic for Epileptology RWTH Aachen](https://www.ukaachen.de/kliniken-institute/klinik-fuer-neurologie/klinik/sektionen/epileptologie/)

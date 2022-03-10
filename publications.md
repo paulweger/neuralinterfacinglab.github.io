@@ -22,16 +22,19 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
   
-tr {
+td {
   font-size: 14px;
 }
   
 a {
   font-size: 16px;
+  line-height: 1px;
 }
   
 i {
-  font-size: 12px !important;
+  font-size: 12px;
+  line-height: 1px;
+  padding-top: 5px
 }
   
 </style>

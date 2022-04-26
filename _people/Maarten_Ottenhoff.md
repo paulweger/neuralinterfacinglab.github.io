@@ -1,5 +1,5 @@
 ---
-name: Maarten C. Ottenhoff
+name: Maarten Ottenhoff
 position: gradstudent
 avatar: maarten_Ottenhoff.jpg
 twitter: MC_Ottenhoff

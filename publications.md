@@ -42,6 +42,21 @@ i {
 
 ### 2022
 <table>
+ <tr><td><a href="https://www.biorxiv.org/content/10.1101/2022.07.04.498676v1">Executed and imagined grasping movements can be decoded from lower dimensional representation of distributed non-motor brain areas</a><br>
+<i>Maarten C Ottenhoff, Maxime Verwoert, Sophocles Goulis, Albert Colon, Louis Wagner, Simon Tousseyn, Johannes P van Dijk, Pieter Kubben, Christian Herff</i><br>
+bioRxiv, 2022</td></tr>
+ <tr><td><a href="https://www.biorxiv.org/content/10.1101/2022.08.04.502829v1">The Nested Hierarchy of Overt, Mouthed, and Imagined Speech Activity Evident in Intracranial Recordings</a><br>
+<i>Pedram Z Soroush, Christian Herff, Stephanie K Ries, Jerry J Shih, Tanja Schultz, Dean J Krusienski</i><br>
+bioRxiv, 2022</td></tr>
+  <tr><td><a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/58CF5C42C9821AFF2092137B424884A7/S0033291722002367a.pdf/div-class-title-designing-daily-life-research-combining-experience-sampling-method-with-parallel-data-div.pdf">Designing daily-life research combining experience sampling method with parallel data</a><br>
+<i>Joana De Calheiros Velozo, Jeroen Habets, Sandip V George, Koen Niemeijer, Olga Minaeva, Noëmi Hagemann, Christian Herff, Peter Kuppens, Aki Rintala, Thomas Vaessen, Harriëtte Riese, Philippe Delespaul</i><br>
+Psychological Medicine, 2022</td></tr>
+  <tr><td><a href="https://ieeexplore.ieee.org/abstract/document/9747300">Towards Closed-Loop Speech Synthesis from Stereotactic EEG: A Unit Selection Approach</a><br>
+<i>Miguel Angrick, Maarten Ottenhoff, Lorenz Diener, Darius Ivucic, Gabriel Ivucic, Sophocles Goulis, Albert J Colon, Louis Wagner, Dean J Krusienski, Pieter L Kubben, Tanja Schultz, Christian Herff</i><br>
+ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022</td></tr>
+  <tr><td><a href="https://www.nature.com/articles/s41597-022-01542-9">Dataset of Speech Production in intracranial Electroencephalography</a><br>
+<i>Maxime Verwoert, Maarten C Ottenhoff, Sophocles Goulis, Albert J Colon, Louis Wagner, Simon Tousseyn, Johannes P van Dijk, Pieter L Kubben, Christian Herff</i><br>
+Scientific Data, 2022</td></tr>
 <tr><td><a href="https://www.tandfonline.com/doi/abs/10.1080/2326263X.2021.2009654">Workshops of the eighth international brain–computer interface meeting: BCIs: the next frontier</a><br>
 <i>Jane E Huggins, Dean Krusienski, Mariska J Vansteensel, Davide Valeriani, Antonia Thelen, Sergey Stavisky, James JS Norton, Anton Nijholt, Gernot Müller-Putz, Nataliya Kosmyna, Louis Korczowski, Christoph Kapeller, Christian Herff, Sebastian Halder, Christoph Guger, Moritz Grosse-Wentrup, Robert Gaunt, Aliceson Nicole Dusang, Pierre Clisson, Ricardo Chavarriaga, Charles W Anderson, Brendan Allison, Tetiana Aksenova, Erik Aarnoutse</i><br>
 Brain-Computer Interfaces, 2022</td></tr>

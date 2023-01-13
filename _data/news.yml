@@ -1,3 +1,12 @@
+- date: 2023-01-09
+  details: Similarly, we happy to welcome Berkhan Genc as a visiting researcher in our group!
+
+- date: 2023-01-09
+  details: We're very happy to welcome Maria de Araújo Vitória to work with us in a joint project with Elia Formisano on "Acoustic to Semantic Transformations in Human Auditory Cortex" in sEEG and fMRI.
+
+- date: 2022-12-09
+  details: In a new article in NBDT, we show how speech can be synthesized from sEEG using an encoder-decoder framework. Check it out <a href="https://doi.org/10.51628/001c.57524">here</a>
+
 - date: 2022-07-22
   details: Our sEEG speech production dataset is now published. Check it out <a href="https://www.nature.com/articles/s41597-022-01542-9">here</a>
 

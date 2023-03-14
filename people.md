@@ -58,9 +58,10 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
+| [Laura Marras](https://www.imtlucca.it/it/laura.marras) | Research Assistant (2021 - 2022) | PhD student @ IMT Lucca, Italy
 | [Jeroen Habets](https://www.linkedin.com/in/jeroen-habets-b6721321/) | PhD Student (2017 - 2021) | Scientific consultant RuneLabs & Postdoc Neurosurgery Charité |
 | Jeremy Saal | Research Assistant (2019 - 2020) | PhD student @ UCSF |
-| [Jonas Kohler](https://ch.linkedin.com/in/jonasmoritzkohler) | Visiting Researcher (2020) | PhD student @ ETH Zuerich |
+| [Jonas Kohler](https://ch.linkedin.com/in/jonasmoritzkohler) | Visiting Researcher (2020) | Researcher @ Oculus |
 
 {% endif %}
 {% endfor %}

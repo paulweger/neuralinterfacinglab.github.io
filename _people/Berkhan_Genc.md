@@ -1,7 +1,7 @@
 ---
 name: Berkhan Genc
 position: visiting
-avatar: Berkhan.jpg
+avatar: berkhan.jpg
 twitter: 
 joined: 2023
 ---

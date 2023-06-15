@@ -6,6 +6,7 @@ permalink: /publication/
 <hr>
 <head>
 <style>
+<!-- styling for the cards -->
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
@@ -13,35 +14,79 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
 }
-  
+
 tr:nth-child(even) {
-  background-color: #dddddd;
+background-color: #dddddd;
 }
-  
+
 td {
-  font-size: 14px;
+font-size: 14px;
 }
-  
+
 a {
-  font-size: 16px;
-  line-height: 1px;
+font-size: 16px;
+line-height: 1px;
 }
-  
+
 i {
-  font-size: 12px;
-  line-height: 1px;
-  padding-top: 5px
+font-size: 12px;
+line-height: 1px;
+padding-top: 5px
 }
-  
+
+.well {
+background-color: white;
+border-radius: 30px;
+}
+
+.well:hover{
+  background-color: #f5f5f5;
+}
+
+.search-container {
+margin-bottom: 20px;
+margin-left: 35%;
+
+}
+
+h4{
+font-size: medium;
+}
+
 </style>
 </head>
 
-### 2022
-<table>
+<!-- pasting all publications from _publications folder -->
+### Recent Publications
+<div id="publications-container">
+{% for publication in site.publications %}
+  <div class="col-sm-6 card-item">
+    <div class="well">
+      <a style="text-decoration: none; color: black; font-size: medium;" href="{{ publication.link }}">{{ publication.title }}</a>
+      <p><img src="{{site.baseurl}}{{ publication.image }}" class="img-responsive" width="40%" style="float:left" alt=""></p>
+      <p>{{ publication.description }}</p>
+      <p><em>{{ publication.authors }}</em></p>
+      <p><strong><a href="{{ publication.link }}">{{ publication.journal }}, {{ publication.year }}</a></strong></p>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+
+<!-- group photo to be on the meet our team -->
+<!-- img/peope/nh1--> 
+
+
+
+
+
+
+<!-- <table>
  <tr><td><a href="https://www.biorxiv.org/content/10.1101/2022.07.04.498676v1">Executed and imagined grasping movements can be decoded from lower dimensional representation of distributed non-motor brain areas</a><br>
 <i>Maarten C Ottenhoff, Maxime Verwoert, Sophocles Goulis, Albert Colon, Louis Wagner, Simon Tousseyn, Johannes P van Dijk, Pieter Kubben, Christian Herff</i><br>
 bioRxiv, 2022</td></tr>
@@ -405,7 +450,7 @@ Nederlands Tijdschrift voor Geneeskunde, 2007</td></tr>
 <tr><td><a href="https://europepmc.org/article/med/18257432">Intraoperative MRI in brain surgery</a><br>
 <i>PL van Kubben, H van Santbrink, GH Spincemaille, WP Vandertop</i><br>
 Nederlands tijdschrift voor geneeskunde, 2007</td></tr>
-</table>
+</table> -->
 
 
 ### Copyright Notice

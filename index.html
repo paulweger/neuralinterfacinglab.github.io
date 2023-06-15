@@ -2,16 +2,38 @@
 layout: default
 ---
 
+<!-- styling for the cards -->
+<style>
+  .well{
+    background: #f0f8ff;
+    padding: 25px;
+    border-radius:10px;
+    border: 1px solid #5d8aa8;
+  }
+
+  h1{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+</style>
+
+
 <div class='container'>
     <header class="masthead text-center">
-      <img src="images/logo/NIL_logo_light_theme.png" alt="NIL logo">
+      <!-- fading animation -->
+      <div data-aos="fade-right"
+      data-aos-duration="1000">
+      <img style="position: relative; z-index: 10;"
+       src="images/logo/NIL_logo_light_theme.png" alt="NIL logo"></div>
+
+       <hr>
       <p>
       <i>Welcome to the Neural Interfacing Lab in the Department for Neurosurgery at Maastricht University. We are a multidisciplinary team investigating Brain-Computer Interfaces and closed-loop neural interfaces though the application of
           advanced Machine Learning.
 
         <span style="display: block; margin-bottom: 3em"></span>
       </p>
-
+<hr>
       <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
         <div style="text-align:left">
           <h3> Recent News </h3>
@@ -35,7 +57,42 @@ layout: default
         </div >
       </div>
 
+      <hr>
+      <!-- preview of some publications -->
+      <div>
+        <h1 data-aos="fade-up"
+        data-aos-duration="1000"
+        data-aos-once="true">Latest publications</h1>
+        
+        <div data-aos="fade-up"
+        data-aos-duration="1000"
+        data-aos-once="true"
+        data-aos-delay="100"
+        id="publications-container">
+          {% for publication in site.publications %}
+            <div class="col-sm-6 card-item">
+              <div class="well">
+                <a style="text-decoration: none; color: black; font-size: medium;" href="{{ publication.link }}">{{ publication.title }}</a>
+                <p><img src="{{site.baseurl}}{{ publication.image }}" class="img-responsive" width="40%" style="float:left" alt=""></p>
+                <p>{{ publication.description }}</p>
+                <p><em>{{ publication.authors }}</em></p>
+                <p><strong><a href="{{ publication.link }}">{{ publication.journal }}, {{ publication.year }}</a></strong></p>
+              </div>
+            </div>
+          {% endfor %}
+          </div>
 
+          <button style="  background-color: white;
+          border: #f0f8ff;
+          font-size: large;"> <a href="publication/"> see more...</a></button>
+      </div>
+
+      
+
+      <hr data-aos="fade-up"
+      data-aos-duration="1000"
+      data-aos-once="true"
+      data-aos-delay="100">
 
       <span style="display: block; margin-bottom: 3em"></span>
       Neural Interfacing Lab<br>
@@ -45,4 +102,5 @@ layout: default
       <span style="display: block; margin-bottom: 3em"></span>
 
     </header>
+
 </div>

@@ -3,6 +3,13 @@ title: People
 permalink: /people/
 ---
 
+
+### Meet The Team!
+<img style=" width:100%;" src="{{site.baseurl}}\images\people\nil01.jpg" data-action="zoom">
+
+<hr>
+
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 

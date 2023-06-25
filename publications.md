@@ -76,7 +76,7 @@ font-size: medium;
 {% endfor %}
 </div>
 
-
+<div class="col-sm-12"></div>
 
 <!-- group photo to be on the meet our team -->
 <!-- img/peope/nh1--> 

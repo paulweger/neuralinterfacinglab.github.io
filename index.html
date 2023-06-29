@@ -69,17 +69,18 @@ layout: default
         data-aos-once="true"
         data-aos-delay="100"
         id="publications-container">
-          {% for publication in site.publications %}
-            <div class="col-sm-6 card-item">
-              <div class="well">
-                <a style="text-decoration: none; color: black; font-size: medium;" href="{{ publication.link }}">{{ publication.title }}</a>
-                <p><img src="{{site.baseurl}}{{ publication.image }}" class="img-responsive" width="40%" style="float:left" alt=""></p>
-                <p>{{ publication.description }}</p>
-                <p><em>{{ publication.authors }}</em></p>
-                <p><strong><a href="{{ publication.link }}">{{ publication.journal }}, {{ publication.year }}</a></strong></p>
-              </div>
+        {% assign sorted_publications = site.publications | sort: 'pub_date' | reverse %}
+        {% for publication in sorted_publications limit:5 %}
+          <div class="col-sm-6 card-item">
+            <div class="well">
+              <a style="text-decoration: none; color: black; font-size: medium;" href="{{ publication.link }}">{{ publication.title }}</a>
+              <p><img src="{{site.baseurl}}{{ publication.image }}" class="img-responsive" width="40%" style="float:left" alt=""></p>
+              <p>{{ publication.description }}</p>
+              <p><em>{{ publication.authors }}</em></p>
+              <p><strong><a href="{{ publication.link }}">{{ publication.journal }}, {{ publication.year }}</a></strong></p>
             </div>
-          {% endfor %}
+          </div>
+        {% endfor %}
           </div>
 
           <button style="  background-color: white;

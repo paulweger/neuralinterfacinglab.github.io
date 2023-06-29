@@ -6,4 +6,5 @@ year: "2022"
 link: "https://www.biorxiv.org/content/10.1101/2022.07.04.498676v1"
 image: "/images/publications/download.png"
 description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo nostrum, labore minima illum assumenda quaerat? Voluptas veniam harum atque, voluptates, blanditiis dignissimos impedit accusamus explicabo voluptate dolorem tenetur odit dolor?"
+pub_date: "2022-07-04"
 ---

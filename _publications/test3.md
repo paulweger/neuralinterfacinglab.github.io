@@ -6,5 +6,6 @@ year: "2022"
 link: "https://example.com/article2"
 image: "/images/publications/ml.png"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante vitae dui tristique lacinia eu vel nisi. Aliquam volutpat odio vitae enim eleifend, ut suscipit massa tempus. Integer interdum tellus vel mauris dictum placerat."
+pub_date: "2022-01-01"
 ---
 

@@ -4,7 +4,7 @@ authors: "Joaquín Amigó-Vega*, Maarten C. Ottenhoff*, Maxime Verwoert, Pieter 
 journal: "biorXiv"
 year: "2022"
 link: "https://www.biorxiv.org/content/10.1101/2022.10.26.513822v1"
-image: "/images/publications/t_rex_components.jpg"
+image: "/images/publications/t_rex_components.png"
 description: "We created a flexible recording system for neuroscientific research that minimizes setup time and errors, allowing researchers and participants to start experiments easily and independently."
 pub_date: "202-08-11"
 ---

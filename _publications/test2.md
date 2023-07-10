@@ -1,10 +1,10 @@
 ---
-title: "A study on the effectiveness of using virtual reality in treating phobias"
-authors: "Sarah Johnson, David Lee, Emily Chen"
-journal: "Journal of Virtual Medicine"
-year: "2021"
-link: "https://example.com/article1"
-image: "/images/publications/vr.png"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel ante vitae dui tristique lacinia eu vel nisi. Aliquam volutpat odio vitae enim eleifend, ut suscipit massa tempus. Integer interdum tellus vel mauris dictum placerat."
-pub_date: "2021-01-01"
+title: "Decoding Arbitrary and Informed Decisions from Intracranial Recordings in Humans"
+authors: " Laura Marras,  Maxime Verwoert,  Maarten C. Ottenhoff,  Sophocles Goulis,  Johannes P. van Dijk, Simon Tousseyn,  Louis Wagner, Albert J. Colon,  Pieter L. Kubben, Marcus L.F. Janssen,  Steffen A. Herff,  Christian Herff"
+journal: "biorXiv"
+year: "2023"
+link: "[https://example.com/article1](https://www.biorxiv.org/content/10.1101/2023.06.01.543070v1)"
+image: "/images/publications/dm_laura.png"
+description: "In this study, we show that decisions are processes differently whether we know what we are deciding about, or whether we are just guessing. Both processes elicit strong enough neural responses that we can decode them from sEEG."
+pub_date: "2023-06-06"
 ---

@@ -15,8 +15,7 @@ joined: 2019
 <a href="https://github.com/mottenhoff"> <i class="fa fa-github"></i> GitHub </a><br>
 
 #### Research interests
-Maarten Ottenhoff is a PhD student in the School of Mental Health and Neuroscience (MHeNs) at Maastricht University. He aims to understand and decode movement-related neural activity from distributed invasive recordings, eventually targeting a new generation of naturally controlled prosthetics. 
-
+Maarten Ottenhoff is a PhD student at the School of Mental Health and Neuroscience (MHeNs) at Maastricht University. He aims to understand and decode movement from distributed brain-wide recordings, eventually targeting the new generation of naturally controlled neural prosthetics.
 
 #### Biography
-His interest in human movement started by challenging himself in Athletics, eventually racing a national level. Gradually, the need for a deeper understanding led him to obstain his BSc in human movement sciences at the Vrije Universteit in Amsterdam. During his bachelor thesis, he noticed that he enjoyed the technical work of the data analysis more, thus pivotting to a MSc in Artificial Intelligence. Eventually, he found the challenging field of brain-computer interfaces at the intersection of his interests, leading him to his current PhD project.
+Human movement has always been a common theme throughout Maarten's life. Starting with finding the limits of his own movement with track & field on national levels, to gaining deeper knowledge on how we move during his Bachelors in Human Movement sciences at the Vrije Universiteit Amsterdam. During this time, a great interest in the technical aspect during data analyses developed, resulting in a switch to a Master Artificial Intelligence. Now, Maarten has found the perfect intersection between how we move and how to detect it by becoming an expert in the field of brain-computer interfaces.

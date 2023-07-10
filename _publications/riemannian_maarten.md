@@ -4,7 +4,7 @@ authors: "Maarten C Ottenhoff, Maxime Verwoert, Sophocles Goulis, Albert Colon, 
 journal: "bioRxiv"
 year: "2022"
 link: "https://www.biorxiv.org/content/10.1101/2022.07.04.498676v1"
-image: "/images/publications/download.png"
+image: "/images/publications/brains_first_component.png"
 description: "Can you decode movement from other areas than the motor cortex? Here we decode executed and imagined movement from distributed brain areas using a riemannian classifier."
 pub_date: "2022-07-04"
 ---

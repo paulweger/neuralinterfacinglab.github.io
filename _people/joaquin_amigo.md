@@ -10,6 +10,7 @@ joined: 2021
 
 #### Contact
 <i class="fa fa-envelope-o"></i> joaquin.amigo@gssi.it <br>
+<a href="https://twitter.com/jamigov"> <i class="fa fa-twitter"></i> Twitter </a><br>
 <a href="https://www.linkedin.com/in/joaqu%C3%ADn-amig%C3%B3-vega-b16456119/"> <i class="fa fa-linkedin"></i> LinkedIn </a><br>
 <a href="https://github.com/jamigov/"> <i class="fa fa-github"></i> GitHub </a><br>
 

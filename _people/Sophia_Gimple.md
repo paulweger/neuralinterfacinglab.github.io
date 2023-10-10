@@ -17,4 +17,4 @@ joined: 2023
 Sophia obtained a Bachelor in Computer Science with application subject Medicine from RWTH Aachen and a Master in Behavioral and Cognitive Neuroscience from the University of Groningen.
 
 #### Research Interests
-Her PhD research focuses on researching cognition in Parkinson patients obtaining DBS stimulation with the aim of developing a closed-loop brain-computer-interface.
+Her PhD research focuses on cognition in Parkinson patients obtaining DBS stimulation with the aim of developing a closed-loop brain-computer-interface.

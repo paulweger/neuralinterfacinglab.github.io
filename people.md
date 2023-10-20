@@ -5,7 +5,7 @@ permalink: /people/
 
 
 ### Meet The Team!
-<img style=" width:100%;" src="{{site.baseurl}}\images\people\nil01.jpg" data-action="zoom">
+<img style=" width:100%;" src="{{site.baseurl}}\images\people\IMG_7385.jpg" data-action="zoom">
 
 <hr>
 

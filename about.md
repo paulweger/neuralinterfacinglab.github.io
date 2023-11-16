@@ -22,7 +22,7 @@ One of our focuses is the real-time decoding and synthesis of imagined speech pr
 
 To bring the field forward, we have shared a large dataset of intracranial EEG during speech production. You can find it [here](https://www.nature.com/articles/s41597-022-01542-9).
 
-Additionally, we also utilize our closed-loop setup to investigate other higher-order cognition, such as memory, navigation and decision-making.
+Additionally, we also utilize our closed-loop setup to investigate other higher-order cognition, such as **memory**, **navigation** and **decision-making**.
 Recently, we have started to investigate low-dimensional representations of neural data to find commonalities across participants.
 <img width="600" src="{{site.baseurl}}/images/other/global_motor.jpg" data-action="zoom">
 

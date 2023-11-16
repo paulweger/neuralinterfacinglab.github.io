@@ -13,7 +13,7 @@ Our research sits right at the intersection of computer science, neuroscience an
 
 #### invasive Brain-Computer Interfaces
 #### PI: Christian Herff
-<img width="300" src="{{site.baseurl}}/images/other/a.gif" data-action="zoom">
+<img width="600" src="{{site.baseurl}}/images/other/a.gif" data-action="zoom">
 The invasive Brain-Computer Interface research line investigates closed-loop neural interfaces that process and decode neural activity in real-time to control computer programs and neuroprosthesis and thereby directly provide feedback to the users. To obtain very high quality measures of neural activity, we utilize intracranial recordings in humans. In severe cases of epilepsy, electrodes are implanted to identify the seizure origin. The patients then stay in the epilepsy ward for several weeks and wait to have enough seizures for reliable mapping. This opens a wonderful window of opportunity, as we can record high-fidelity neural signals without putting additional burden on the patients.
 Patients greatly enjoy participating in our experiments as they are a welcome relieve from the hospital routine.
 

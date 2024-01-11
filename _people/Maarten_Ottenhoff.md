@@ -1,6 +1,6 @@
 ---
 name: Maarten Ottenhoff
-position: gradstudent
+position: Postdoc
 avatar: maarten_Ottenhoff.jpg
 twitter: MC_Ottenhoff
 joined: 2019
@@ -15,7 +15,7 @@ joined: 2019
 <a href="https://github.com/mottenhoff"> <i class="fa fa-github"></i> GitHub </a><br>
 
 #### Research interests
-Maarten Ottenhoff is a PhD student at the School of Mental Health and Neuroscience (MHeNs) at Maastricht University. He aims to understand and decode movement from distributed brain-wide recordings, eventually targeting the new generation of naturally controlled neural prosthetics.
+How is movement represented throughtout the brain? And can we decode it for the use of brain-computer interfaces? These are the main question Maarten wants to answer. Currently working as a postdoc, Maarten aims to build closed-loop motor decoders based on brain-wide movement-related neural activity.
 
 #### Biography
-Human movement has always been a common theme throughout Maarten's life. Starting with finding the limits of his own movement with track & field on national level, to gaining deeper knowledge on how we move during his Bachelors in Human Movement sciences at the Vrije Universiteit in Amsterdam. During this time, a great interest in the technical aspect during data analyses developed, resulting in a switch to a Master Artificial Intelligence. Now, Maarten has found the perfect intersection between how we move and how to detect it by becoming an expert in the field of brain-computer interfaces.
+Throughout his life, Maarten has always been fascinated by human movement. What started with finding the limits of his own movement with track & field on national level, has now grown in to a deep passion in understanding and decoding how humans control movement. With his background in human movement science (bachelor) and artificial intelligence (master), Maarten finds himself at the perfect intersection of both the biological and technical aspect of the motor decoding field. After finishing his PhD in motor decoding from brain-wide areas, he received the Kootstra Talent Fellowship to translate his gained knowledge into closed-loop motor decoders as a postdoc.

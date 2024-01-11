@@ -1,6 +1,6 @@
 ---
 name: Maarten C. Ottenhoff
-position: Postdoc
+position: postdoc
 avatar: maarten_ottenhoff.jpeg
 twitter: MC_Ottenhoff
 joined: 2019

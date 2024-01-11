@@ -1,7 +1,7 @@
 ---
-name: Maarten Ottenhoff
+name: Maarten C. Ottenhoff
 position: Postdoc
-avatar: maarten_Ottenhoff.jpg
+avatar: maarten_ottenhoff.jpeg
 twitter: MC_Ottenhoff
 joined: 2019
 ---
